@@ -1,0 +1,294 @@
+================================================================================
+PRETRIAL PLAN FOR FRIDAY, JANUARY 16, 2026
+State v. Golub | Case No. 235900706 | Judge Hruby-Mills
+WEBEX HEARING - 11:30 AM
+================================================================================
+
+WEBEX DETAILS:
+- Link: https://utcourts.webex.com/utcourts/j.php?MTID=maaf95c81bb7fa3248d008b24dee5dcdd
+- Webinar #: 2484 252 2469
+- Password: 3SgsvvZsV53 (or 37478897 for phone)
+- Phone: +1-408-418-9388 (Access code: 248 425 22469)
+
+================================================================================
+CRITICAL ADJUSTMENTS FROM JANUARY 12 HEARING
+================================================================================
+
+LESSONS LEARNED:
+1. Judge cut off arguments quickly - be CONCISE
+2. Judge deferred almost everything to "Friday" - this is your opportunity
+3. Judge didn't want to discuss voir dire time in advance
+4. Technology approved (plug into court computer)
+5. State said they'd have witness info by Friday
+6. Prosecutor claimed "impaired" = DUI for enhancement (challenge this)
+
+NEW DEVELOPMENTS SINCE JANUARY 12:
+- Received juror questionnaire and appearance report
+- Voir Dire confirmed: January 22 at 9:00 AM (juror check-in 8:30)
+- Trial format clarified via court correspondence
+
+================================================================================
+OPENING STATEMENT (15 seconds - BE BRIEF)
+================================================================================
+
+"Good morning, Your Honor. Thank you for the Webex link. I have three matters
+deferred from Monday: jury instructions, the State's witness decision, and
+outstanding discovery. I'll be brief."
+
+NOTE: Do NOT repeat requests already addressed (technology, trial logistics).
+The Judge will remember you asked those on Monday.
+
+================================================================================
+PRIORITY 1: STATE'S WITNESS DECISION (1-2 minutes)
+================================================================================
+
+BACKGROUND:
+- On January 12, State said they'd have witness decision "by Friday"
+- Need to know: Is Officer 2 being called?
+- This affects trial preparation significantly
+
+SCRIPT:
+"Your Honor, on Monday Mr. Johnson indicated he'd have the witness decision by
+today. I'd like to confirm: Will the State be calling only Corporal Ernstsen,
+or will Officer 2--the second officer present in the video--also be testifying?"
+
+IF STATE STILL UNDECIDED:
+"Your Honor, trial is in six days. I need to know who I'm cross-examining.
+I request the Court set a deadline of today at 5 PM for the State to finalize
+its witness list."
+
+IF STATE SAYS THEY WON'T CALL OFFICER 2:
+"Thank you. I'll note for the record that Officer 2 was present for over
+three hours and actively participated in the arrest, vehicle search, and tow.
+His absence from the witness list is relevant to the Brady issue I've raised."
+
+================================================================================
+PRIORITY 2: JURY INSTRUCTIONS (3-5 minutes)
+================================================================================
+
+THE CORE DISPUTE:
+State's instruction (Page 29) tells jury the Court made "affirmative findings"
+about the Intoxilyzer and creates a "rebuttable presumption" it worked properly.
+
+WHY THIS IS WRONG (CONCISE VERSION):
+1. The 144-second test is scientifically impossible
+2. Officer admitted test was "improperly done"
+3. Telling jury what to believe about contested evidence is error under Bradley
+
+SCRIPT:
+"Your Honor, I filed written objections to the State's jury instructions on
+January 8th. The central dispute is the 'affirmative findings' instruction
+on page 29.
+
+The officer himself testified the test was 'improperly done.' The video shows
+144 seconds of continuous blowing--that's physically impossible. Whether this
+machine worked properly is the disputed fact in this case.
+
+Under State v. Bradley, the Court cannot instruct the jury on what to believe
+about contested evidence. I've proposed neutral alternative language that lets
+the jury decide.
+
+Has the Court had an opportunity to review my objections and alternative
+language?"
+
+IF JUDGE WANTS TO DEFER TO TRIAL:
+"I understand, Your Honor. I'm preserving my Bradley objection on the record.
+I'll renew it before instructions are read."
+
+IF JUDGE ASKS PROSECUTOR TO RESPOND:
+- Listen carefully
+- Note any concessions
+- Don't argue back and forth; let the Judge decide
+
+FALLBACK POSITION:
+At minimum, get acknowledgment that the Court received your written objections
+and will consider them before instructing the jury.
+
+================================================================================
+PRIORITY 3: OUTSTANDING DISCOVERY - OFFICER 2 (2-3 minutes)
+================================================================================
+
+THE ISSUE:
+Officer 2 appears in video for 3.5+ hours, made the arrest, searched vehicle,
+handled tow--but is not named in any report and hasn't been identified.
+
+SCRIPT:
+"Your Honor, I have an outstanding Brady demand. The video evidence shows a
+second officer present for over three and a half hours. The transcript of his
+bodycam shows he made statements during the arrest and conducted the vehicle
+inventory. Yet he's not identified in any police report.
+
+Mr. Johnson, can you identify this officer today?"
+
+IF STATE IDENTIFIES OFFICER 2:
+"Thank you. Has the State produced his bodycam footage?"
+
+IF STATE WON'T OR CAN'T IDENTIFY:
+"Your Honor, this officer is captured on video making statements and
+participating in the arrest. His identity and any statements he made are
+discoverable under Brady. I request the Court order the State to identify
+this officer and produce his bodycam footage before trial."
+
+IF NOTHING PRODUCED:
+"I'm preserving my right to request an adverse inference instruction at trial--
+that the jury may infer his testimony would have been unfavorable to the State."
+
+================================================================================
+PRIORITY 4: ENHANCEMENT CLARIFICATION (1-2 minutes)
+================================================================================
+
+THE CONFUSION FROM JANUARY 12:
+- Defense: "The prior was reckless driving, not DUI."
+- Prosecutor: "Impaired. It's the same thing."
+- No clarification provided
+
+SCRIPT:
+"Your Honor, I'd like to clarify the enhancement issue. On Monday, I noted that
+my 2019 conviction was for reckless driving, not DUI. Mr. Johnson stated
+'impaired' is 'the same thing.'
+
+Can the State clarify the legal basis for the enhancement? The charging
+document references DUI, but my prior was reduced to reckless driving. If
+reckless driving qualifies as a predicate offense, I'd like to understand
+the statutory basis."
+
+PURPOSE:
+- Get on record that prior was reckless driving, not DUI
+- Force State to articulate legal theory
+- Preserve issue for potential appeal
+
+IF JUDGE DOESN'T WANT TO ADDRESS:
+"I understand. I'm preserving my objection to the enhancement and will address
+it if there's a conviction."
+
+================================================================================
+OPTIONAL: VOIR DIRE (ONLY IF THERE'S TIME)
+================================================================================
+
+NOTE: Judge was resistant on Monday. Don't push this hard.
+
+BRIEF REQUEST (if natural opening):
+"Your Honor, regarding voir dire--I understand the Court will manage the
+timing. I just want to confirm I'll have an opportunity to ask questions
+about jurors' ability to evaluate scientific evidence and police testimony."
+
+DO NOT:
+- Repeat the 45-minute request
+- Cite State v. Perea again
+- Argue about the importance of the issues
+
+The Judge heard it Monday. Trust that she remembers.
+
+================================================================================
+ITEMS NOT TO RAISE (Already Resolved or Inappropriate)
+================================================================================
+
+1. TECHNOLOGY - Approved on January 12 (plug into court computer)
+2. TRIAL DATES - Confirmed (January 22-23)
+3. VOIR DIRE START TIME - Confirmed (8:30 check-in, 9:00 ready for Judge)
+4. COBRA DATA - Don't raise unless discovery issue is opened; less critical
+   than Officer 2
+
+================================================================================
+CLOSING (10 seconds)
+================================================================================
+
+"Thank you, Your Honor. To confirm: trial is January 22nd, I'll arrive early
+to set up my equipment, and I'll be prepared with my witnesses and exhibits.
+I appreciate the Court's time."
+
+================================================================================
+CONTINGENCY PLANS
+================================================================================
+
+IF JUDGE LIMITS YOUR TIME:
+- Prioritize: (1) Witness confirmation, (2) Jury instructions record,
+  (3) Officer 2 identity
+- Accept limitations gracefully: "I understand, Your Honor."
+- Say: "I'm preserving these issues on the record."
+
+IF TECHNICAL DIFFICULTIES WITH WEBEX:
+- Have phone number ready: +1-408-418-9388, Access code: 248 425 22469
+- Email court immediately: josephcl@utcourts.gov
+- Be on 10 minutes early to test connection
+
+IF STATE RAISES NEW ISSUES:
+- Ask: "Your Honor, I wasn't aware of this. May I have until 5 PM today to
+  respond in writing?"
+- Don't agree to anything you don't understand
+
+IF JUDGE SEEMS IMPATIENT:
+- Shorten everything
+- Focus only on: "I have filed written objections. I'm preserving my record."
+- Say: "I don't want to take more of the Court's time. I'll be ready Thursday."
+
+================================================================================
+WEBEX PREPARATION CHECKLIST
+================================================================================
+
+BEFORE 11:30 AM:
+[ ] Test Webex link by 11:00 AM
+[ ] Have phone backup ready
+[ ] Quiet location with good internet
+[ ] Camera on, professional appearance
+[ ] Have documents open:
+    - This plan
+    - January 8 correspondence (your objections)
+    - State's jury instructions (Page 29 marked)
+    - Case summary
+
+HAVE READY TO SHARE:
+[ ] Side-by-side comparison document (if screen sharing needed)
+[ ] Your proposed alternative jury instruction language
+
+NOTEPAD READY FOR:
+[ ] Judge's rulings
+[ ] State's responses
+[ ] Any deadlines set
+
+================================================================================
+SUCCESS METRICS FOR JANUARY 16
+================================================================================
+
+MINIMUM (Must Achieve):
+[ ] Confirm State's final witness list
+[ ] Preserve jury instruction objections on record
+[ ] Get Officer 2 identity or preserve Brady objection
+[ ] Confirm trial logistics unchanged
+
+IDEAL (If Possible):
+[ ] State agrees to modify "affirmative findings" language
+[ ] Officer 2 identified and bodycam produced
+[ ] Enhancement issue clarified on record
+[ ] Judge indicates she'll give reasonable voir dire time
+
+================================================================================
+REMEMBER
+================================================================================
+
+1. BE BRIEF - Judge values efficiency
+2. DON'T REPEAT - She heard your arguments Monday
+3. PRESERVE THE RECORD - "I'm noting my objection" is sufficient
+4. STAY PROFESSIONAL - Even if frustrated
+5. TRUST YOUR PREP - You've done the work
+6. IT'S VIRTUAL - Speak clearly, pause for lag
+
+Trial is in 6 days. This pretrial is about confirming details and preserving
+your record, not re-litigating issues. Save your arguments for the jury.
+
+================================================================================
+POST-HEARING TO-DO
+================================================================================
+
+After the January 16 hearing:
+1. Document all rulings in writing
+2. File any written objections required
+3. Update exhibit list if needed
+4. Finalize PowerPoint presentation
+5. Prepare for January 22 voir dire
+6. Review juror questionnaire responses
+7. Practice opening statement
+
+================================================================================
+END OF PRETRIAL PLAN - JANUARY 16, 2026
+================================================================================
