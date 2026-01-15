@@ -1,0 +1,1093 @@
+Motion to Suppress/Dismiss 
+Salt Lake City, Utah Third District Court
+Judge Elizabeth Hruby-Mills
+Case: 235900706
+
+BACKGROUND: REASON FOR PER SE REPRESENTATION
+(NB As the author of the present motion is not a legal scholar, she asks the court to overlook any stylistic anomalies or rhetorical redundancies as the motion was written in good faith within the allotted time.)
+Based on the constitutional right to effective counsel, which is guaranteed under both the Sixth Amendment of the United States Constitution and Article I, Section 12 of the Utah Constitution. Utah and federal case law clearly establish that a defendant’s right to effective counsel entails competent legal representation throughout all critical stages of a criminal proceeding. In State v. Garcia, the court ruled that effective counsel must ensure the defense is thoroughly prepared, particularly during plea negotiations and trial strategy?. Mr. Golub was deprived of his rights due to the substantial shortcomings of his former defense counsel, Mr. Daniel Frazier, who failed to fulfill his fiduciary responsibility as shown in this motion. Not only did Mr. Frazier fail to communicate any details of the case with Mr. Golub, he also failed to share any information about the court’s proceedings (including that the arresting officer would be deposed) and, most importantly, failed to present critical evidence and raise elementary questions and concerns relevant to Mr. Golub’s defense. 
+Mr. Golub’s attorney should have first addressed the issue of probable case—Cpl. Ernstsen’s pretext for stopping Mr. Golub—as the officer was parked approximately 100 ft behind the defendant’s vehicle with his line of sight obstructed by multiple other cars (Video VII—Cpl. Ernstsen dashcam, 00:00:21). If the officer had no reasonable suspicion or probable cause that a traffic violation had occurred, then the stop is unlawful. This violates the Fourth Amendment, which protects against unreasonable searches and seizures. In such cases, any evidence obtained after the stop should be suppressed as “fruit of the poisonous tree” under the exclusionary rule. Mr. Frazier should have brought this evidence to the attention of the court and questioned Cpl. Ernstsen regarding why he had been waiting outside Aces High and why after following the defendant for 10 blocks and observing no signs of impairment or unlawful activity, the officer decided to stop Mr. Golub just as the defendant was entering the freeway. 
+This present motion will detail the problems with the probable cause and evidence of the state (while indicating the shortcomings of Mr. Frazier) by focusing on the reasons the evidence in this case, including the probable cause, should be suppressed. 
+ISSUES THAT SHOULD HAVE BEEN RAISED CONCERNING CPL. ERNSTSEN’S CONFIRMATION BIAS AND RELIABILITY 
+
+A cursory review will show that counsel failed to meet his fiduciary responsibility to explore all reasonable avenues of defense. Apart from a lack of video evidence of Mr. Golub’s failure to signal, Mr. Frazier should have questioned Cpl. Ernstsen regarding why he made the traffic stop even though there was a lack of visual evidence of a failure to signal and by his own admission, he observed no evidence of impaired driving despite following Mr. Golub for over 10 blocks. 
+
+Confirmation Bias
+
+Mr. Frazier should have asked whether the officer was biased when deciding to stop Mr. Golub, making the case for probable cause, and collecting evidence, given that confirmation bias is a well-documented phenomenon in law enforcement, particularly in DUI investigations (Lawson, 2024).
+
+Mr. Golub raised the issue of confirmation bias to his attorney multiple times, including a 2023 article by Mike Stapley for KSL News that investigated Cpl. Ernstsen’s work as an officer (Stapley, 2023). After reading the article, Mr. Golub asked Mr. Frazier to obtain an official record of Cpl. Ernstsen’s stops and arrests, as he suspected that his stop-to-arrest ratio may have been higher than average. Mr. Frazier responded that this information was not available to the public. Yet, after asking Mr. Frazier to remove himself from the case, Mr. Golub obtained the information by filing a GAMMA request. This information will be cited below. (The official response letter is presented in Appendix I). 
+
+The 2023 article, which mentions Cpl. Ernstsen by name 19 times, describes how Cpl. Ernstsen specifically stop drivers who are leaving bars or sporting events to perform field sobriety tests. The attorney should have questioned the officer regarding the 2023 article, and specifically asked what the officer meant by the claim that some drivers who “struggle with some of the several field sobriety tests pass the breathalyzer” (qtd. in Stapley, 2023). Cpl. Ernstsen goes onto to say that he stakes out “areas with bars and nightclubs” and is “very familiar with the location of nearly every bar.” 
+
+Given Cpl. Ernstsen’s familiarity with the State Street bars, the attorney should have asked him whether he had made any prior arrests of suspects that day, how many arrests he’d made that week, if he’d ever arrested anyone leaving Piper Down and Aces High (the two bars he is seen patrolling on the video), how often he made arrests in this area, if he expected to make any DUI arrests September 6, 2023, if any of this influenced his decision to stop Mr. Golub, and if he’d already decided that Mr. Golub would be arrested regardless of his performance on the field sobriety test, which Cpl. Ernstsen admits are not necessarily supported by breathalyzer tests.
+
+After questioning Cpl. Ernstsen on this point, the defense attorney should have questioned the officer regarding his stop-to-arrest ratio. Cpl. Ernstsen claims to have performed a “routine” traffic stop when he pulled Mr. Golub over for a failure to signal. The attorney should have first, asked if Cpl. Ernstsen was aware of the national and state stop-to-arrest ratios; second, he should have questioned Cpl. Ernstsen about his stop-to-arrest ratio; third, he should have presented the following evidence to the court. The current federal stop-to-arrest ratio is approximately 800,000 per 20,000,000, and depending on race and geography, the percentage of drivers arrested following a traffic stop is approximately 2–6% (Bureau of Justice Statistics; Stanford Open Policing Project). 
+
+
+In Utah, the Department of Public Safety statistics reported 289,065 stops and 2,871 DUI arrests for the year 2022.
+
+
+
+Source: Gereau, Jared, “Utah Highway Patrol Releases Annual Year-End Statistics,” Utah Public Radio, 2022 (see references for official report).
+
+According to the Utah Department of Public Safety, Cpl. Ernstsen’s stop-to-arrest ratio for 2023 was 455 stops and 109 arrests, all but three of which were for DUI. 
+
+
+Source: Utah Department of Public Safety, October 16, 2024.
+
+Thus, while the national stop-to-arrest ratio is 2–6%, and the Utah stop-to-DUI arrest ratio is approximately 1%, Cpl. Ernstsen’s stop-to-arrest ratio is 23.96%, and his stop-to-DUI arrest ratio is marginally lower—23.29%. This major discrepancy suggests that Cpl. Ernstsen’s modus operandi to stake out bars and sporting events and get as many DUI arrests as possible. Still, a 24-fold increase is cause for concern. Moreover, Cpl. Ernstsen does not claim to have been staking out Aces High during his deposition even though this is clearly seen on the video. 
+
+Having brought this information to light, the attorney should have argued that there is a significant statistical argument that Cpl. Ernstsen was operating under confirmation bias, which not only led him to make the stop without probable cause, but that he was highly incentivized to make the arrest and to support that arrest with all and any evidence. Indeed, he may not even be able to tell the difference between indicators and clues of intoxication and fatigue, as he believes his arrest record is justified (as shown in the 2023 article). Moreover, it is likely that due to the number and frequency of arrests, he has arrested and presented evidence against innocent drivers, who very well may have been convicted due to ineffective counsel or merely the desire to conclude the stressful court process as quickly as possible. 
+
+Getting proper statistics on wrongful arrests and convictions is incredibly complicated. How does one even decide that someone was wrongfully arrested and/or charged? Clearly, neither winning nor losing a case is necessary an indication of guilt or innocence. However, this is an important area of criminology and jurisprudence. Indeed, Utah in particular has been the subject of a Bureau of Justice Statistics investigation highlighting issues around wrongful accusations and misconduct. The report highlights systemic issues within Utah's policing, including wrongful arrests and investigations. It suggests that police misconduct, especially in cases involving forensic or DUI investigations (Bureau of Justice Statistics, Report to Utah on Crime and Justice, 1993). And in 
+
+Even if we take the accepted national average of false convictions of 2–10% (National Institute of Justice, 2023; Moskovska, 2021). This would mean that anywhere from 2 to 11 of the people arrested by Cpl. Ernstsen and convicted of a DUI misdemeanor are innocent. 
+
+Cpl. Ernstsen also showed bias in his manner and speech. For instance, CE referred to the defendant’s car as “disgusting” (Video IV, 00:28:29), which is a well-documented emotion linked to a visceral moral aversion that raises the probability of police prejudice (Munch-Jurisic, 2022) and litigation issues (Tali, 2018; Chapman and Anderson, 2009). Thus, of the hundreds of people arrested by CE for DUIs, not only Mr. Golub but likely many other people have been wrongfully arrested, and some may have even been convicted.  
+
+What Liberman and Patrick refer to as the role of disgust in the “coloring” of moral and legal affairs (2018) may help explain Cpl. Ernstsen’s high stop-to-arrest ratio, as disgust is a well-known indication of extreme moral prejudice (Haidt and Moll et al., 2005). Another role of disgust in confirmation bias is the unconscious misinterpretation of events by law enforcement (Morrow and Shjarback, 2019); while Cpl. Ernstsen may not have consciously misrepresented the facts, he may have unconsciously misrepresented them due to inherent bias. Cpl. Ernstsen is not necessarily exceptionally prejudiced, but like many officers who routinely perform the same type of arrest for many years (in this case, DUIs), he favors a viewpoint that confirms what he already believes or suspects (Lawson, 2024). And on the night of September 6, 2023, as he drove up and down State St., slowing down in front of the “all too familiar” bars (Stapley, 2023), and implementing the method described in his interview with Mark Stapley, he could not help but be biased when he saw Mr. Golub exit a familiar bar, even if Mr. Golub hadn’t broken any laws. 
+
+The attorney should have asked: 
+§ How many DUI investigations CE has been involved with while working as a Utah Highway Patrol Trooper. The attorney should have asked how many of his routine traffic stops turn into DUIs. 
+      
+§ If the officer was aware of the national and Utah stop-to-traffic ratio, and if he believed his own arrest record was higher or lower. 
+
+§ If he recalled the 2023 article, and specifically asked what the officer meant by the claim that some drivers who “struggle with some of the several field sobriety tests pass the breathalyzer” and what he meant when he claimed he was “very familiar with the location of nearly every bar” (qtd. in Stapley, 2023).
+
+§ How many DUIs the officer has made with regard to the patrons of Piper Down and Aces High? Given that he makes a DUI arrest nearly once every two weekdays. 
+
+§ Did he anticipate making a DUI arrest prior to stopping Mr. Golub? How certain was he that he would get a DUI arrest when he saw that Mr. Golub’s car was parked in front of the entrance to Aces High? Was it one in two, or one in four as his official record shows?
+
+§ How Cpl. Ernstsen feels about the people he arrests and whether he has personal biases against people who drink at bars and drive home, which is not illegal as long as the driver’s BAC is under .05 and they have the dexterity and reflexes to safely operate a vehicle. 
+
+§ Would he go so far as to consider some of the people he’s arrested as “disgusting”? 
+
+Thus, the defense should have questioned the state’s probable cause given the high likelihood that the officer’s reason for making the stop and anticipation of making a DUI arrest biased his judgement. 
+
+Having questioned Cpl. Ernstsen about confirmation bias, Mr. Frazier should have proceeded to inquire why the officer omitted or misrepresented certain facts in his DUI Report, Affidavit, and deposition.
+
+PROBLEMS WITH STATEMENTS MADE BY CPL. ERNSTSEN IN HIS DUI REPORT, AFFIDAVIT, AND DEPOSITION
+
+Regarding the omission of a second officer (Officer 2) in the Affidavit and DUI Report. Officer 2 arrested Mr. Golub, performed the vehicle search, wrote the vehicle-search report, and was the only officer to communicate with the tow-truck driver, counsel:  
+
+§ Failed to question Cpl. Ernstsen about why Officer 2 was omitted from the DUI Report and Affidavit. The attorney failed to call attention to the presence of Officer 2, who was not only the primary officer to search the vehicle but also physically arrested the Mr. Golub; however, Officer 2 is nowhere mentioned on the DUI Report or Affidavit or any other documentation relating to Mr. Golub’s arrest on the night of September 6, 2023. The complete absence of this officer on the documentation should have been addressed by the attorney, and Officer 2 should have been called as a second witness.
+
+§ Failed to question Cpl. Ernstsen whether he believed Officer 2 should have been included on the DUI Report in the “Case Identification” section shown below: 
+
+
+
+§ Failed to question Cpl. Ernstsen about how many police cruisers arrived on the scene and whether any other officers witnessed or performed any noteworthy tasks (e.g. arresting Mr. Golub, searching his car, witnessing field sobriety tests, witnessing behavior, corroborating Cpl. Ernstsen’s observations of indicators and clues, etc.)  
+
+§ Failed to question Cpl. Ernstsen whether he believed Officer 2 should have been deposed re the smell of alcohol coming from Mr. Golub’s car.
+
+Regarding the allegation made in section V of the DUI Report: “There was never a blinking signal light initiated on the subject’s vehicle before nor during the lane changes before pulling away from the curb.”
+
+In section VI. of the DUI Report, Cpl. Ernstsen writes, “There was never a blinking signal light initiated on the subject’s vehicle before nor during the lane changes before pulling away from the curb,” and then reiterates this claim on the Affidavit: “On 9/6/2023 at approximately 2329 hours, I stopped subject's vehicle for failure to signal near 2600 South State Street.” However, Cpl. Ernstsen was parked some distance away and there are many parked cars obstructing his view of Mr. Golub’s vehicle (Video VII, 00:00:21). However, if there had been a failure to signal, the offense would have occurred at 1588 south i.e. over a 10-block distance from 2600 south. This does not seem to be “near” where the offense allegedly took place.
+
+Counsel: 
+
+§ Failed to quote this passage and question Cpl. Ernstsen regarding his position in relation to Mr. Golub’s car. How far away he was from Mr. Golub’s car and were there any other cars obstructing Cpl. Ernstsen’s view. 
+
+§ Failed to ask whether Cpl. Ernstsen had a direct line of sight on the part of the vehicle where the signal lights are located. 
+
+§ Failed to ask whether the video might suggest that Mr. Golub’s signal was on during the merge, and whether Mr. Golub could have switched the signal off after crossing into the middle lane as the light does not automatically stop signaling when the car makes a slight turn when merging lanes. 
+
+Regarding the allegation in section VII of the DUI Report: “Upon my initial approach to the vehicle, I could smell an odor of an alcoholic beverage coming from the vehicle.”
+
+In his report, affidavit, and deposition, Cpl. Ernstsen frequently repeats that following phrase verbatim, I smelled the “odor of an alcoholic beverage coming from the vehicle.”
+
+Counsel: 
+
+§ Failed to question Cpl. Ernstsen regarding when the corporal first smelled alcohol as it was coming from the car. It is rather difficult to smell alcohol coming from a car unless the smell is very strong (e.g. there are open containers or alcohol has actually been spilled inside the car). Mr. Frazier should have made this point and asked the corporal to elaborate when exactly he smelled the odor of alcohol coming from the vehicle. Then the attorney should have asked if Officer 2, who was the lead in searching the car, also smelled alcohol in the vehicle. The attorney should have asked when the corporal first detected the smell of alcohol. The following are questions Mr. Frazier could have asked Cpl. Ernstsen: “You say you smelled the odor of an alcoholic beverage coming from the vehicle. Did you find any alcoholic beverages in the vehicle? Any empty containers or maybe a coffee mug that might have been used for alcohol? Based on your experience, how much alcohol would someone need to consume for the vehicle to have a pronounced smell of an alcoholic beverage? How close were you to the vehicle when you made this observation? Were you 15 feet away? Ten? Five? When Mr. Golub handed his license? Or was is when he handed the registration? Did Officer 2 notice the odor of alcohol when he conducted the search of the vehicle? Did he note the smell of alcohol or any alcoholic beverages in his report?”
+
+§ Failed to question Cpl. Ernstsen regarding when he suspected Mr. Golub had been consuming “alcoholic beverages.” Is it possible the CE had this suspicion after seeing Mr. Golub leave the establishment? And if so, would that mean that the first indicator was “not the smell of an alcoholic beverage”? And if so, why would Cpl. Ernstsen omit this important indicator. 
+
+§ Failed to question Cpl. Ernstsen whether the use of standardized phrases might have influenced the officer’s judgment, potentially causing him to project suspicion onto Mr. Golub, especially since smells cannot be corroborated or falsified by evidence. This frequently repeated allegation by Cpl. Ernstsen concerning the smell of alcoholic beverages coming from the vehicle is a standardized phrase in the DWI Detection and Standardized Field Sobriety Testing manual developed by the National Highway Traffic Safety Administration (NHTSA). The attorney should have asked how often Cpl. Erntsen notes these indicators in his DUI reports, especially when the defendant shows no signs of intoxication while driving, as Mr. Golub had. 
+
+Regarding the allegation made in section VII of the DUI Report: “Subject braced himself using both hands on the driver door as he exited the vehicle; b) Subject had a slight circular sway while standing still during the HGN test”; c) Subject's eyes were glossy and bloodshot.”
+
+If counsel had reviewed the video, he would have clearly seen that Mr. Golub does not “brace” himself while exiting the vehicle (Video IV, 00:11:06). On the contrary, Mr. Golub seems to be rigid and stiff during the field sobriety tests. With regard to the “glossy and bloodshot eyes,” Mr. Golub repeatedly told the officer that he was fatigued after teaching Special Ed for seven hours at the Granite School District and then a two-hour class at the University of Utah. In addition, both of these classes were new (i.e. Mr. Golub had never taught them before), which required significant preparation time causing him to lose even more sleep. In addition, Mr. Golub had taken legal medication to help anxiety/insomnia, which he mentioned to CE. CE responded to Mr. Golub’s information by saying there was nothing to worry about because there would be no blood test. 
+
+Counsel: 
+
+§ Failed to refer to video evidence and ask Cpl. Ernstsen if he saw another person exit a vehicle in this manner would he consider it an indicator of intoxication? He should have asked whether there was any other reason someone might put a hand on the door. Is it possible that this is not only a perfectly natural and reflexive way to exit a vehicle, but that it could be a sign of sobriety given the time of day and that the car was parked on the shoulder of the road? If one were a cyclist, why might one not want to fling open the driver’s side door? Could it be to ensure the door doesn’t open too wide, obstruct traffic, or be hit by cyclists. (Mr. Golub is a cyclist and is very careful not to fling open the left-side doors of any vehicle while on the side of the road as this puts cyclists in danger of striking the door, especially at night.)
+
+§ Failed to question Cpl. Ernstsen if Mr. Golub was swaying the entire time? How long did he sway for? Was he swaying during, for instance, the One-Leg test? He should have asked if swaying was an indicator of intoxication? Could someone “sway” for reasons other than intoxication e.g. fatigued and even anxiety? Would Officer 2 corroborate the allegation that Mr. Golub was swaying, and if so, would he too consider this an indicator that was necessary to include in the DUI Report? 
+
+§ Failed to question whether fatigue was a plausible explanation for Mr. Golub’s appearance, considering the time of night and the fact that he had been teaching at two institutions for nine hours. The attorney should have asked if the officer was informed of Mr. Golub’s exhaustion, his 5 a.m. wake-up, and the long day teaching at the Granite School District and the University of Utah.
+
+§ Failed to ask how the officer determined that the eye condition was due to intoxication rather than fatigue and stress. Surely not all people with bloodshot and/or glossy eyes are drunk? People get tired, have allergies and hypoglycemia, or simply just have red and glossy eyes. Indeed, Mr. Golub has a condition that requires him to use allergy eye drops. Thus, what criteria did Cpl. Ernstsen apply to determine that Mr. Golub’s eyes were an indicator of intoxication? 
+
+§ Failed to ask how officers typically provide evidence to support claims about smelling alcohol or observing bloodshot eyes, and whether Mr. Golub exhibited any other corroborating signs of intoxication. Additionally, there should have been an emphasis on the fact that eyes and smell are difficult or impossible to corroborate or falsify with video evidence.
+
+§ Failed to mention that Cpl. Ernstsen stated multiple times in his report and deposition that he could “smell an odor of an alcoholic beverage coming from the vehicle,” alongside his observation of that Mr. Golub had “glossy, bloodshot eyes.” As noted above, regarding the “smell of an alcoholic beverage coming from the vehicle,” this is language standardized in DWI Detection and Standardized Field Sobriety Testing. The attorney should have questioned whether the use of this standardized phrase might have influenced the officer’s judgment, potentially causing him to project suspicion onto Mr. Golub, since these claims cannot be falsified by evidence. 
+
+§ It's noteworthy that the most common probable cause cited in DUI arrests is the combination of bloodshot/glossy eyes and the smell of alcohol—indicators that are unfalsifiable.
+
+Regarding the allegation made in section VIII of the DUI Report that Mr. Golub refused to take the Preliminary Breath Test (PBT), counsel:
+
+§ Failed to question Cpl. Ernstsen whether he thought he was clear when he requested the defendant to take the PBT and whether he specifically followed Utah Code §41-6a-520? As noted above, the defendant claims he didn’t refuse to take the PBT, as he was not officially presented with the test, but merely asked if he “wanted” to take it. Cpl. Ernstsen should have informed Mr. Golub of Utah Code Section 41-6a-520 and Utah’s implied consent law, and then asked Mr. Golub if he “refuses” to take the test. In Cpl. Ernstsen’s bodycam video, the corporal says, “Do you wanna do this?” to which Mr. Golub answers, “I just want to go home” (Video IV, 00:19:29). Again, if a defendant says he does not want to do something (take a test, be arrested, etc.), does this constitute a refusal or resistance. 
+
+§ Failed to cite Utah Code Section 41-6a-520, “A peace officer requesting a test or tests shall warn a person that refusal to submit to the test or tests may result in criminal prosecution, revocation of the person's license to operate a motor vehicle, a five- or 10-year prohibition of driving…”1 The attorney should have asked if any such warning or statement to that effect was made, since Mr. Golub’s license was never suspended or revoked, which would seem to indicate that Mr. Golub did not refuse to take the breath test. When the breath test was officially requested, Mr. Golub immediately complied (Video IV, 00:39:52).
+
+§ Failed to question Cpl. Ernstsen if his failure to inform Mr. Golub of Utah Code Section 41-6a-520 or officially present the PBT was because Cpl. Ernstsen knew that the PBT might show a BAC that was lower than what Cpl. Ernstsen was looking for? Why did Cpl. Ernstsen not inform, Mr. Golub that once you tell an officer you refuse to take the test, your driver's license is automatically suspended for up to 18 months after a first breathalyzer refusal. Would this not have helped Cpl. Ernstsen obtain a PBT, since Mr. Golub claims he expected to be breathalyzed and was under the impression that his arrest was temporary as the PBT was never administered? 
+
+§ Since the defendant claims he did not knowingly refuse to take the PBT, but was only expressing his wish to go home. The attorney failed to ask if saying “I want to go home” counts as an official refusal to comply with an officer’s request. If a defendant says she doesn’t want to be arrested, would that count as resisting arrest? Since the defendant complied with all other instructions, should his wish to go home count as a legal refusal to comply?
+
+§ Failed to question Cpl. Ernstsen whether he believed Officer 2 should have been deposed re Mr. Golub’s alleged “refusal” to take the breath test. Would he agree that Mr. Golub’s statement “He want to go home” constitute a “refusal” to Cpl. Ernstsen’s question, “Do you want to take the test”?
+
+§ Failed to ask questions about training and proper record keeping protocol for filling out arrest forms. And whether he should have added a note about the “refusal” was implied? Should Officer 2 have been included on the forms where a second officer is indicated?
+
+REGARDING THE CLUES AND INDICTORS GATHERED VIA THE FIELD SOBRIETY TESTS 
+
+In the Affidavit, Cpl. Ernstsen alleges that he “had subject perform field sobriety tests and saw 6 of 6 clues on the HGN” and in the DUI Report that Cpl. Ernstsen saw “6 clues observed. Equal tracking and pupil size. Resting nystagmus was not observed. I observed a lack of smooth pursuit in both eyes, a distinct and sustained nystagmus at maximum deviation in both eyes and an onset of nystagmus prior to a 45 degree angle in both eyes. Vertical gaze nystagmus was not observed.” 
+
+In the Affidavit, Cpl. Ernstsen claims to have observed six of six clues of impairment during the Horizontal Gaze Nystagmus (HGN) test. The DUI Report specifically mentions, “equal tracking and pupil size,” “resting nystagmus was not observed,” and the observation of a “lack of smooth pursuit,” “distinct and sustained nystagmus at maximum deviation,” and “onset of nystagmus prior to a 45-degree angle in both eyes.” However, counsel failed to adequately challenge the accuracy, procedure, and reliability of this test as well as the officer’s administration and interpretation of the test. 
+
+Regarding the Horizontal Gaze Nystagmus Test
+
+During the deposition, Deputy District Attorney Cara Dunkelman asked the officer whether he explained the instructions for the field sobriety tests? (Deposition; 06:28) to which Cpl. Ernstsen replied, “I did, and I demonstrated it” (Deposition; 06:31). 
+  
+Counsel did not question whether fatigue could have impacted the results of the HGN test, or whether Cpl. Ernstsen administrated the test in the proper manner. Having asked the officer to define the HGN clues as defined in the manual, counsel should have asked the officer if fatigue or certain medications affects motor coordination and eye movements, and whether it can mimic the effects of alcohol. 
+
+This is supported by extensive literature:
+
+* Sutton and Janelle (2015) state, “While an HGN test can indicate intoxication, it by no means proves intoxication. An officer's assessment of what constitutes normal nystagmus can be subjective. Medical conditions and prescription drugs can also cause abnormal nystagmus.”
+* Mr. Golub had taken doxylamine succinate, an over-the-counter depressant, which is known to affect saccadic eye movements and impair smooth pursuit (Zils et al., 2005). Sleep deprivation itself has a significant effect on these movements, reflecting dysfunction at the brainstem level, and could explain the officer’s observation of nystagmus.
+
+The attorney should have asked Cpl. Ernstsen if he considered fatigue or the influence of doxylamine succinate as factors affecting Mr. Golub's eyes, especially given Mr. Golub’s work schedule and exhaustion. 
+
+The HGN test has been criticized for its subjectivity and scientific unreliability. Counsel should have asked the officer if he was aware of legal cases where the HGN test has been ruled inadmissible. For instance, in State v. O'Key (1995), the court ruled that the HGN test did not meet the Daubert Standard for scientific reliability, stating, “In determining whether scientific evidence is admissible, the trial court is to ensure that decisions are based on scientific facts, not science fiction.” 
+
+The HGN test is subjective, with interpretations of eye movement highly dependent on the officer’s personal assessment, which can vary widely. Given the test's lack of objectivity, the attorney should have challenged its use as clues in this case.
+
+Regarding proper procedures for administering the HGN test, counsel failed to question whether the HGN test was properly administered in accordance with Utah State procedures. The Standardized Field Sobriety Test (SFST) manual, overseen by the NHTSA, outlines specific procedures for conducting the HGN test, including:
+
+* The officer must observe for smooth pursuit, nystagmus at maximum deviation, and onset of nystagmus before 45 degrees.
+* The test should be conducted in a well-lit area, with the officer holding an object (such as a pen) 12 to 15 inches from the suspect’s face.
+* Each pass of the eye should be slow and smooth, taking two seconds out and two seconds back.
+
+The attorney should have questioned whether Cpl. Ernstsen followed these guidelines precisely (e.g. How did he determine the angle of degrees, record the seconds, was the object held longer than two seconds, whether factors such as poor lighting or improper technique could have affected the test results, etc.?) Counsel, likewise, failed to ask for a breakdown of the 6/6 clues observed during the test. The attorney should have requested clarification on:
+
+* How the officer determined that each clue was present.
+* Whether the officer was aware that fatigue and medication can produce false positives for clues such as lack of smooth pursuit and onset of nystagmus before 45 degrees.
+* Moreover, the attorney should have challenged whether all six clues could be reliably observed under the conditions of the test, especially given the potential influence of fatigue and medication. 
+
+The argument should have been made that the test was not administered according to the stipulated guidelines and, more importantly failed to consider alternative causes of clues, and, therefore, the evidence gather via the HGN should be suppressed. 
+
+Regarding the falsifiability of the clues observed by the officer
+
+Lastly, the attorney should have tied the HGN back to the argument that like glossy eyes, bloodshot eyes, and the smell of alcohol coming from a vehicle, the HGN clues are subjective and cannot be easily falsified by video or other physical evidence, yet these are frequently cited in DUI arrests as probable cause (Munch-Jurisic, 2022). This issue should have been raised to challenge the admissibility of the evidence.
+
+Additionally, the HGN test is not a conclusive clue of impairment, and its reliability is further called into question when the effects of fatigue and medication are involved (North Carolina Prosecutors’ Resource Manual, section 612.1; Goldberg, 1963; National Highway Traffic Safety Administration, 2020).
+Given the above facts, counsel: 
+§ Failed to question Cpl. Ernstsen about the procedure for conducting the HGN test, specifically what criteria the administrator is instructed to use to determine a “clue,” especially since Cpl. Ernstsen alleges to have seen six of six clues. 
+
+§ Failed to ask how fatigue can mimic the effects of alcohol on the nervous system, affecting motor coordination and eye movements, which would impact the results of the HGN test. The attorney should have asked if Cpl. Ernstsen was aware that fatigue has been named as one of the chief reasons a person taking the test can get a false positive for clues (Goldberg, 1963; Gross, 2008). The attorney should have asked the officer if he knew which of the clues is most likely to be affected by fatigue, and then followed up by naming the clues that are commonly shown under fatigue. These include but are not limited to eye movement.
+
+§ Failed to ask if Cpl. Ernstsen was familiar with the physical effects of doxylamine succinate. 
+
+§ Failed to note that the HGN test has been recognized by many legal and medical professionals as being highly subjective and unreliable—based on the Daubert standard, the HGN has been ruled inadmissible due to insufficient scientific reliability and prejudicial testimony (State v. O'Key, 1995)—“In determining whether scientific evidence is admissible, the trial court is to make sure that the decision by the trier of fact is based on scientific facts, not science fiction” (State v. O'Key, 1995). 
+
+§ Failed to question Cpl. Ernstsen about how to properly administer this test. The attorney should have asked the officer what each of the HGN clues were, and how the defendant scored a 6/6. 
+
+Given the above facts, the defense now asks the court to suppress the HGN evidence. 
+
+Regarding Mr. Golub’s performance on the nine-step walk-and-turn test 
+
+In section VII of the DUI Report, Cpl. Ernstsen records the following: “Subject made an improper turn by taking one large spinning step, taking his front foot off the line and then stepped backward with the front foot. Second set of nine steps- Subject stepped offline once (sic). Subject stopped walking and asked a question. Actual number of steps taken was eleven.” 
+
+The official Utah Walk-And-Turn (WAT) test requires nine steps in each direction along a straight line. Cpl. Ernstsen only demonstrated three steps (Video IV, 00:15:18), which could have caused confusion about the proper number of steps and how the turn should be made. Moreover, although Cpl. Ernstsen alleges Mr. Golub showed four of eight clues, the video evidence shows that Mr. Golub did exhibit good dexterity and motor control, even while asking clarifying questions of the officer. 
+
+The attorney should have asked the officer to give the instructions as defined in the DWI Detection and Standardized Field Sobriety Testing" (SFST) Manual. Having had these explained, the attorney should have questioned the officer regarding these instructions, especially if he fully demonstrated the Walk-And-Turn (WAT) test. The officer should have been asked to do a full demonstration of the test, and then reproduce the demonstration he gave the night of September 6, 2023. The difference would have been evident to the court. 
+
+The video shows the officer did not fully demonstrate the test, which was why the defendant asked follow-up questions. The attorney should has asked if the line the officer asked the defendant to walk was real or imaginary. Given the darkness of the night, wouldn’t it have been easier to demonstrate the WAT test on a line existing in the environment. When the officer demonstrated the WAT, he himself took three steps and walked along one of the perpendicular lines in the sidewalk. In addition, he himself takes an extra step when he demonstrates the turn. 
+
+Mr. Golub’s confusion arose because Cpl. Ernstsen’s demonstration of the test was incomplete. Cpl. Ernstsen also demonstrated it while walking along a perpendicular section line in the concrete sidewalk; however, he had the defendant walk an imaginary line that was parallel to the sidewalk. 
+
+Improper demonstration of field sobriety tests, especially when procedures are not followed or tests are not fully demonstrated, can lead to suppression of evidence. For instance, State v. Homan (Ohio, 2000) emphasized that strict compliance with standardized procedures, as outlined by the NHTSA, is required when conducting field sobriety tests. Failure to follow these procedures undermines the subject’s ability to understand a novel test under stressful conditions, which in turn undermines test reliability.
+
+The NHTSA guidelines for the WAT specify that the officer must clearly demonstrate the test. A clear demonstration of the test would entail a complete demonstration—smooth heel-to-toe steps, turning, and then returning nine heel-to-toe steps back along the same line. This was not demonstrated by Cpl. Ernstsen (Video IV, 00:15:18). The WAT is designed not to test a driver’s ability to learn a new procedure, but her dexterity and ability to operate a vehicle. 
+
+The official NHTSA guidelines outline eight possible clues for the WAT test:
+
+1. Cannot balance during instructions.
+2. Starts before instructions are finished.
+3. Stops while walking.
+4. Does not touch heel-to-toe.
+5. Steps off the line.
+6. Uses arms to balance.
+7. Improper turn.
+8. Incorrect number of steps.
+
+Counsel should have asked which specific clues Mr. Golub exhibited and whether these clues are all equally indicative of intoxication, or if some are more significant than others. Cpl. Ernstsen claimed he observed four of the eight clues but failed to explain which clues Mr. Golub exhibited and whether their weight was equal in indicating impairment.
+
+Counsel should have emphasized the effect of the officer’s incomplete demonstration of the test, especially since he did not take the full nine steps during the demonstration, which caused confusion about the proper procedure and negatively impacted Mr. Golub’s performance.
+
+Counsel should have questioned whether taking more steps was a sign of impairment. Did Mr. Golub demonstrate walking in a straight line? Could taking extra steps simply an indication of trying to fully comply with the officer’s instructions? If a sober person asked similar clarifying questions, would that be an indicator of impairment or could it indicate of a sober desire to comply with the officer’s instructions?
+
+Regarding the impact of external factors (fatigue, stress, and medication)
+
+Mr. Golub’s fatigue, stress, and the doxylamine succinate could have influenced his performance on the WAT test. Research shows that fatigue and over-the-counter medications (such as doxylamine succinate) can affect the WAT test leading to false positives (Zils et al., 2005; Sutton and Janelle, 2015). Counsel should have asked if a sober person (under similar conditions—fatigue, stress, etc.), performed as Mr. Golub did, would the officer 100% conclude that they were DUI? If not 100% certain, how sure would he be, having seen Mr. Golub’s performance on the tests, that individual was under the influence? 
+
+Regarding officer’s own admission of drivers passing breathalyzer after “struggling” with the field sobriety tests
+
+Cpl. Ernstsen has been quoted as saying that some drivers who struggle with field sobriety tests still pass the breathalyzer (Stapley, 2023). Counsel should have asked whether Cpl. Ernstsen, given his previous experience, believed it was possible that Mr. Golub could perform as he did on the WAT test and still pass the breathalyzer.
+Counsel should have questioned whether the mix of passed and failed tests was sufficient to suspect intoxication, given that Mr. Golub completed portions of the WAT test properly (walking in a straight line, not swaying or stumbling, etc.). In addition, counsel should have asked if Cpl. Ernstsen had ever known someone who struggled or would struggle more than Mr. Golub on the WAT test but still pass the breathalyzer.
+Thus, the defense requests the results of the WAT test be suppressed due to inadequate administration of the test and the lack of accounting for extraneous factors. 
+Regarding Mr. Golub’s performance on the one-leg-stand test: zero clues observed
+The One-Leg Stand (OLS) test is a standardized field sobriety test used to assess a driver’s balance and motor coordination. According to NHTSA guidelines, the OLS is designed to divide the driver's attention, testing their ability to perform multiple tasks simultaneously. It requires the subject to stand on one leg with the other foot approximately six inches off the ground. The subject must hold that position while counting out loud for 30 seconds. During this time, the officer observes the subject while looking for four clues that indicate impairment:
+1. Swaying while balancing.
+2. Using arms for balance.
+3. Hopping to maintain balance.
+4. Putting the foot down before the 30-second count is over.
+According to the NHTSA, a subject exhibiting two or more clues is considered to have failed the test which is deemed a possible sign of impairment.
+Given that zero clues were recorded by Cpl. Ernstsen suggests that Mr. Golub demonstrated good balance, coordination, and dexterity—traits typically indicative of sobriety. Failing to observe any of the four impairment clues supports the real field observations: Mr. Golub drove for ten blocks and made lane changes without driving too slow or too fast, without swerving or drifting, and without breaking any other of the many traffic laws of the state of Utah. The conclusion seems obvious, Mr. Golub had the proper dexterity to operate a vehicle. His asking follow-up questions on the previous test was not a sign of impairment but rather to comply with the details of the test incompletely demonstrated test. Given Mr. Golub’s ADHD diagnosis, this is only natural because arbitrary rules (such as for random and unfamiliar test) are not immediately internalized.  
+Yet, during his deposition, Cpl. Ernstsen was not able to draw this conclusion. Having convinced himself that Mr. Golub was impaired, the corporal now claimed that he did “observe a couple of clues” (Deposition, 07:23). This, given Cpl. Ernstsen’s meticulous recording of clues on the WAT test, does not seem to fit with Cpl. Ernstsen’s overall approach to the case; however, it does fit with the argument that Cpl. Ernstsen, having produced a DUI arrest record that dwarfs both the national and state averages by at least eight-fold, was (and is still) operating under extreme prejudice and bias. For him, everyone he arrests deserves to be arrested; therefore, any evidence to the contrary is instinctively dismissed or, as in the matter of OLS test, revised to fit his narrative. 
+Regarding the disparity between Cpl. Ernstsen’s own DUI Report, his statements made to journalist Mike Stapley, and his statements made to the court during the deposition, the above statement directly contradicts the officer’s own report of zero clues observed. The attorney should have asked the following:
+* What specific clues did the officer "probably observe" during the test?
+* Why were these clues not officially counted?
+* Where there any other clues or indicators the officer may have misrepresented? 
+* If the clues were not significant enough to record, why did the officer later claim they were indicative of impairment?
+* Given that the officer had meticulously recorded other clues and indicators, such as interpreting holding of the door as a lack of balance, is it possible that Cpl. Ernstsen “remembers” these clues based on his extensive memories arresting hundreds (if not thousands) of drivers for DUIs. 
+During his deposition, Cpl. Ernstsen mentioned that he was observing the defendant’s dexterity as part of the test. Counsel should have explored this further, asking:
+* If no clues were recorded, does that mean Mr. Golub demonstrated adequate dexterity?
+* On a scale from one to 10, how would the officer rate Mr. Golub’s dexterity and balance based on his OLS and WAT performance?
+By failing to record any clues, the officer’s own evidence indicates that Mr. Golub exhibited control over his movement, a key characteristic associated with sobriety.
+In his final assessment of the field sobriety tests, Cpl. Ernstsen made an ambiguous statement during the deposition, “I saw multiple clues of impairment during the field sobriety tests.” However, he was unable or unwilling to identify or explain which specific clues were observed or how they indicated impairment.
+Counsel should have asked the officer to clearly list the clues he claims to have seen and whether these clues aligned with established NHTSA guidelines. The lack of clarity in the officer’s testimony indicates a possible misunderstanding or misapplication of the field sobriety tests, further weakening the reliability of his conclusions about Mr. Golub’s sobriety.
+The OLS is a critical component of field sobriety assessments. The fact that zero clues were observed during Mr. Golub’s performance strongly suggests that he was not impaired at the time. Cpl. Ernstsen’s contradictory statements about “probably observing clues” and his inability to clearly explain what he observed raise significant doubts about the reliability of his assessment. Counsel should have pressed these inconsistencies further to challenge the validity of the officer’s conclusions.
+This line of questioning would have helped establish that Mr. Golub’s performance on the OLS and indeed the WLT was consistent with a sober individual, who though fatigued and stressed was not only able to drive home, but had not consumed enough alcohol to break the law.
+Thus, the defense respectfully requests that the clues reported by Cpl. Ernstsen as probable cause and/or indications of impairment be suppressed. 
+REGARDING ISSUES WITH THE BREATHALYZER 8000
+
+The Intoxylizer 8000 (used to collect a breath sample from Mr. Golub) was developed in 1999, and in recent decades had been discontinued due to gross errors, not only producing erroneous readings, but most importantly, failing to give an error message when the machine should have been made one (Florida v. Lance Conley). Thus, unless the operator is familiar with the quirks of the machine, there is little reliability in the result, especially (as in the case of Mr. Golub) when only one sample is collected and the time of sample collection is not continuous and exceeds 20 seconds (Mr. Golub’s sample was 140 seconds) (Short, 2009). 
+
+Indeed, the Intoxilyzer 8000 has been widely scrutinized for its potential to produce unreliable results, as seen in multiple court cases, including Florida v. Lance Conley. These machines are often referred to as “magic black boxes” in court due to their frequent anomalies and lack of transparency in how they function (Cowley and Silver-Greenberg, 2019). Despite being a cornerstone in DUI cases, numerous investigations, such as a 2019 New York Times article, have revealed how easily these devices can yield inflated or false-positive results due to improper calibration, user error, or mechanical malfunction (Cowley and Silver-Greenberg, 2019). Indeed, multiple states have thrown out their Intoxilyzer 8000 machines, with Massachusetts and New Jersey alone throwing out over 30,000 (Cowley and Silver-Greenberg, 2019). 
+
+Moreover, not only is the machine itself unreliable but the administration of the test had several significant anomalies. As a reference, below is shown a normal printout from the Intoxilyzer 8000 (Ohio Department of Health Alcohol and Drug Testing Subject Test Report, 2019) and the one presented in Cpl. Ernstsen’s DUI Report: 
+       
+Ohio Department of Health, 2019                            Brock Ernstsen, 2023
+
+
+In the rest of this section, the defense will make particular reference to i) duration, ii) breath volume, and iii) sample number represented in the above printouts. 
+
+Regarding problems with the Intoxylizer 8000 test, counsel 
+
+§ Failed to informed the court that the machine failed to accurately measure Mr. Golub’s BrAC (which returned a .104—an implausibly high result given the amount of alcohol consumed) and that this faulty result was due to improper administration of the test and/or machine malfunction. 
+
+§ Failed to informed the court that a possible component contributing to this error may have been Cpl. Ernstsen’s lack of training. In Utah, recent cost-saving measures have reduced the training time officers receive on the proper use of the Intoxilyzer 8000. Instead of full-day training sessions, officers can now certify with a mere online exam (?Utah State Bulletin, 2015). This reduction in hands-on training has been shown to directly impact the reliability of test results in the field, especially regarding nuanced operational aspects like machine errors, reset protocols, and interpreting prolonged breath durations (Bureau of Justice Statistics, 2013; Engel et al., 2022).
+
+§ Failed to inform the court that among the recorded problems with the Intoxylizer 8000, are breathing patterns, temperature, lung capacity, partition ratio, ethnicity, outdated software, errors in source code, individual machine variance, defective hardware, inadequate maintenance records, and even radio interference. 
+
+Regarding Mr. Frazier’s failure to sufficiently challenge the reliability of the Intoxilyzer 8000 and the officer’s training in administering the test, counsel: 
+
+§ Failed to ask Cpl. Ernstsen when he was last trained on the Intoxilyzer 8000; and what did his training cover regarding malfunctions and false positives?
+
+§ Failed to ask Cpl. Ernstsen whether he could name any of the Intoxylizer issues cited above?
+
+§ Failed to ask if Cpl. Ernstsen ever witnessed a malfunction with the Intoxilyzer 8000 and/or if he was ever made aware by colleagues or during his triaging that the machine had a propensity for malfunction and error?
+
+§ Failed to ask if Cpl. Ernstsen could provide examples of malfunctions or improper functioning of the machine, particularly during extended test periods, like the 140 seconds it took to process Mr. Golub’s breath test? (Video IV, 1:04:45–1:07:03)
+
+§ Failed to ask Cpl. Ernstsen what a normal test time was for the Intoxylizer 8000, and if 140 seconds was a normal or a possible concern?  
+
+§ Failed to ask whether Cpl. Ernstsen should have resent the machine after such an extended period of blowing into the machine. 
+
+§ Failed to ask if blowing into the machine longer resulted in a higher, lower, or unaffected BrAC result? 
+
+§ Failed to ask if Cpl. Ernstsen’s training informed him when the machine should be reset?
+
+Regarding common malfunctions of the Intoxilyzer 8000, counsel: 
+
+§ Failed to introduce evidence of potential malfunctions that could have influenced the BrAC result.
+
+§ Failed to cite the Intoxilyzer 8000 Operator’s Manual, which says that if the subject does not provide a continuous breath sample, the instrument should record this as an attempt. The subject must provide a continuous sample to be measured accurately; if the breath is not continuous the device should be reset. Given that Mr. Golub’s recorded time is 140 seconds on video (Video IV, 1:04:45–1:07:05) and 00:32–00:34 on the Intoxylizer 8000 printout (DUI Report), the breath could not have been continuous. 
+
+§ Failed to note that on average breath tests are completed in between to 12 seconds (State Appellate Defender Office, 2017), with the longer tests taking 20 seconds. This is because, as noted above, the sample must be provided continuously. However, Mr. Golub was instructed to blow for over 140 seconds, far exceeding normal testing protocol. 
+
+§ Failed to cite studies showing that the longer the subject blows into the Intoxylizer 8000, the higher her BrAC (Ohio Department of Health, 2023). To exemplify this fact to the court, counsel could have requested COBRA data from the Intoxilyzer 8000 unit, which would show that longer times and larger volumes result in a higher BrAC.
+
+§ Failed to note that the breath volume recorded in the DUI Report was excessive, since the Intoxilyzer 8000 typically requires 1.1 to 1.5 liters of breath, while Mr. Golub’s measured 2.039 liters—a high volume given Mr. Golub’s weight (140 lbs) that could have contributed to a falsely elevated BrAC. 
+
+§ Failed to ask Cpl. Ernstsen why the machine was not reset after the prolonged test duration, since not only should have the initial try been recorded as an “attempt” but would have affected subsequent readings. 
+
+§Failed to ask whether Cpl. Ernstsen was aware of the need to reset the machine and why it was not done after the first attempt.
+
+Numerous courts have thrown out breath test results due to problems with the Intoxilyzer 8000, citing improper calibrations, unreliable software, and the failure of law enforcement to flag machine error even when the machine does not show an error (Short, 2009; State v. Lancaster). In Florida v. Lance Conley, the defense successfully challenged the validity of the test, leading to the exclusion of the breathalyzer result. 
+
+Moreover, the Intoxilyzer 8000 test was improperly administered, leading to an inflated BrAC reading of .104. The lack of a proper reset, the excessive test duration, and the officer’s earlier incomplete demonstration of the field sobriety tests all point to significant procedural errors. 
+
+In summary, the evidence gathered from the Intoxylizer 8000 should be suppressed, due to the flawed administration of the test Intoxilyzer 8000 and the failure of Cpl. Ernstsen to do the bare minimum and gather a second sample after an inordinately long period (140 seconds) of forcing the defendant to blow into the machine. The defense respectfully requests that the evidence of the breath test result gathered from the Intoxylizer 8000 be suppressed and if necessary to allow for the proper deposition and questioning of expert witnesses regarding the administration, efficacy, and proper use of the Intoxylizer 8000.
+
+CONCLUSION
+
+I. The defense argues that Cpl. Ernstsen did not observe the initial traffic violation (failure to signal), and thus the traffic stop was unconstitutional. The defense respectfully requests that the case be dismissed on these grounds. 
+
+II. Having observed Mr. Golub drive for many blocks (including making lane changes), Cpl. Ernstsen admits Mr. Golub was driving normally and no laws were broken.
+
+III. Despite Mr. Golub’s positive performance on the field sobriety tests showing dexterity and safe driving ability, there were multiple issues with the tests’ administration; to the extent that this evidence has major flaws, the defense respectfully requests that the field sobriety tests be suppressed. 
+
+IV. The Intoxylizer 8000 had likely malfunctioned, as such a high reading after being in custody for nearly 90 minutes is highly suspicious. The single reading produced by this imperfect machine, should have in the very least been supported with a second reading that better adhered to the operator’s manual. The defense respectfully requests that the evidence produced by the Intoxylizer 8000 be suppressed. 
+
+V. Inherent confirmation bias may be responsible for multiple misrepresentations in Cpl. Ernstsen’s DUI Report, Affidavit, and deposition. When compared with the national and state averages, CE’s stop-to-arrest ratio is much higher. Only about 1% of driver’s stopped for a routine traffic violation (e.g. failure to signal) end up being arrested for a DUI. This would mean that Cpl. Ernstsen’s stop-to-arrest ratio is 24-fold higher than the state average. This would support the argument for inherent bias, which has been studied by non-profits (e.g. The Institute of Criminal Justice), public policy organizations (e.g. Goldman School of Public Policy), academic psychologists, sociologists, and criminologists (e.g. Filipe Goncalves, Steve Mello, and Roland G. Fryer), lawyers (e.g. Jonathan Mummolo) and even police officers (e.g. Charles D. Hayes) to show that officers unconsciously misrepresent evidence and arrest defendants without lawful probable cause. The defense also argues that due to the high likelihood of Cpl. Ernstsen’s bias, the probable cause and evidence gathered in this case should be suppressed. 
+
+Therefore, Mr. Golub respectfully requests that the probable cause and evidence in this case be suppressed, and as a consequence the case either be dismissed or for Mr. Golub to be given the opportunity to open plea negotiations for a lesser charge. 
+
+If this motion is granted, the defense will rest its case, and take no further action on this matter. If this motion is denied, and Mr. Golub goes to trial and loses, the defense will request for re-trial de novo based on ineffective assistance of counsel.  
+
+References 
+
+Abramson, Tali, Objection: Disgust, Morality, and the Law (Oxford: Oxford University Press, 2018). https://www.google.com/books/edition/Objection/-WdiDwAAQBAJ?hl=en&gbpv=1.
+Allison, Mark and Cecilia Hale, “A Phase I Study of the Pharmacokinetics and Pharmacodynamics of Intranasal Doxylamine in Subjects with Chronic Intermittent Sleep Impairment,” Drugs in R&D, 2018, Jun;18(2):129–136. doi: 10.1007/s40268-018-0232-1. PMID: 29671128; PMCID: PMC5995792.
+Behrendt, Kurt. Perpetrator Disgust: The Moral Limit and Possibility in Law and Literature. Cambridge: Cambridge University Press, 2022.
+Bureau of Justice Statistics. 2013 Survey of State and Local Law Enforcement Training Academies. Washington, DC: U.S. Department of Justice, Office of Justice Programs, 2016 (available at https://bjs.ojp.gov/content/pub/pdf/slleta13.pdf; accessed on October 20, 2024).
+———. Estimating the Prevalence of Wrongful Convictions. U.S. Department of Justice, 2016 (available at https://www.ojp.gov; accessed on October 20, 2024). 
+Cowley, Stacy and Jessica Silver-Greenberg, “These Machines Can Put You in Jail. Don’t Trust Them,” New York Times, 2019 (available at https://www.nytimes.com/2019/11/03/business/drunk-driving-breathalyzer.html; accessed on October 20, 2024).
+Department of Public Safety Annual Report, 2022 (available at https://dpsnews.utah.gov/wp-content/uploads/sites/37/2023/01/2022-Annual-Report-FOR-UPLOAD.pdf; accessed on October 20, 2024).
+Dery, George M., “Allowing “Lawless Police Conduct" in Order to Forbid "Lawless Civilian Conduct": The Court Further Erodes the Exclusionary Rule in Utah v. Strieff,” UC Law Constitutional Quarterly, Vol. 44 (2017), Hastings Const. L.Q. 393 (available at https://repository.uclawsf.edu/hastings_constitutional_law_quaterly/vol44/iss4/1/; accessed on October 20, 2024).
+Farnsworth, Ward. The Legal Analyst: A Toolkit for Thinking About the Law. Chicago: University of Chicago Press, 2010. These Machines Can Put You in Jail. Don’t Trust Them.
+Fourth Amendment: “The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.” U.S. CONST. amend. IV.
+Florida v. Conley, State of Florida v. Lance Conley, Circuit Court of the 12th Judicial Circuit, Manatee County, Florida, Case No. 2011-CT-00423, March 2012.
+Ernstsen, Brock, DUI Report, Third District Court, Salt Lake City (date of citation: September 7, 2023), case no. 162300485.
+———, Affidavit of Probable Cause, Third District Court, Salt Lake City (date of citation: September 7, 2023), case no. 162300485.
+Engel, R. S., Corsaro, N., Isaza, G. T., & McManus, H. D. (2022). Assessing the impact of de-escalation training on police behavior: Reducing police use of force in the louisville, KY metro police department. Criminology & Public Policy, 21, 199–233. https://doi.org/10.1111/1745-9133.12574
+Gereau, Jared, “By Utah Highway Patrol releases annual year-end statistics,” Utah Public Radio, 2022 (available at https://www.upr.org/utah-news/2022-12-12/utah-highway-patrol-releases-annual-year-end-statistics; accessed on October 20, 2024).
+Goldberg, Lawrence, “Effects and After-Effects of Alcohol, Tranquilizers and Fatigue on Ocular Phenomena,” Alcohol and Road Traffic 123, 125-28 (1963).
+
+Golub, Peter (see Appendix II), Transcript of Hearing (from Audio) for Cpl. Brock Ernstsen, Third District Court, County of Salt Lake, State of Utah, May 29, 2024, Case No. 235900706 (file name SLCCRTW47_20240529-0947_01dab1ad335c5a80).
+———, Video Transcript IV: bodycam, Utah Highway Patrol Corporal Brock Ernstsen (Badge No. 311), September 6, 2023, length 1:26:09 (B&W).
+Goncalves, Felipe, and Steven Mello, “A Few Bad Apples? Racial Bias in Policing,” American Economic Review, 2021, 111 (5): 1406–41.DOI: 10.1257/aer.20181607
+Hayes, Charles D., Blue Bias: An Ex-Cop Turned Philosopher Examines the Learning and Resolve Necessary to End Hidden Prejudice in Policing Paperback (Autodidactic Press, 2020). 
+Institute for Criminal Justice Training Reform, “Not Enough Training,” 2013 (accessed on October 20, 2024; available at https://www.trainingreform.org/not-enough-training.
+LaFave, Wayne R., “The ‘Routine Traffic Stop" from Start to Finish: Too Much "Routine,’ Not Enough Fourth Amendment,” Michigan Law Review, 2004, v. 102, 8/13.
+Lawson, Richard, “Confirmation Bias During Police DUI Investigations,” DUI Info (available at https://www.dui.info/confirmation-bias-during-police-dui-investigations; accessed on October 20, 2024). 
+Markosian, Richard, “Cottonwood Heights Corruption Investigations,” Utah Stories, 2019 (available at https://utahstories.com/2019/05/cottonwood-heights-corruption-investigations/; accessed on October 20, 2024). 
+Moll, Jorge, et al., "The Neural Correlates of Moral Sensitivity: A Functional Magnetic Resonance Imaging Investigation of Basic And Moral Emotions," Nature Reviews Neuroscience 6, no. 10 (2005): 799–809.
+Morrow, W. J., and Shjarback, J.A, “Police Worldviews, Unconscious Bias, And Their Potential To Contribute To Racial And Ethnic Disparities In New York Police Department (NYPD) Stops For Reason Of ‘Furtive Movement,’” Journal of Ethnicity in Criminal Justice, 17(3), 269–298. https://doi.org/10.1080/15377938.2019.1636920.
+Moskovska, Andriana, “Wrongful Convictions: Statistics and Causes,” The High Court, 2021 (available at https://thehighcourt.co/wrongful-convictions-statistics/; accessed on October 20, 2024).
+National Highway Traffic Safety Administration. Horizontal Gaze Nystagmus: The Science and the Law – A Resource Guide for Judges, Prosecutors, and Law Enforcement. Washington, DC: U.S. Department of Transportation, 2020.
+National Institute of Justice, “The Impact of False or Misleading Forensic Evidence in Wrongful Convictions,” Office of Justice Programs. Published June 28, 2017 (available at https://nij.ojp.gov/topics/articles/impact-false-or-misleading-forensic-evidence-wrongful-convictions; accessed October 20, 2024). 
+National Registry of Exonerations. Exonerations in 2019. University of California Irvine, University of Michigan, Michigan State University, 2019 (available at https://www.law.umich.edu/special/exoneration/Pages/about.aspx.; accessed on October 20, 2024).
+North Carolina Prosecutors' Resource Manual, “Horizontal Gaze Nystagmus (‘HGN’).” (available at https://ncpro.sog.unc.edu/manual/612-1; accessed on October 20, 2024). 
+Ohio Department of Health, Intoxilyzer 8000 Operator’s Manual (Ohio Department of Health, 2023). 
+Short, Charles, “Guilt by Machine: The Problem of Source Code Discovery in Florida DUI Prosecution,” Florida Law Review, 2009, vol. 61, no. 1, pp. 177–192. 
+Spencer, Katherine B., Amanda K. Charbonneau, and Jack Glaser, “Implicit Bias and Policing,” Social and Personality Psychology Compass, 2016, vol. 10, no. 1, pp. 50–63, 10.1111/spc3.12210
+Stapley, Mike, “Utah Highway Patrol Troopers Are Watching For Distracted And Impaired Drivers This Summer,” KSL, 2023 (available at https://www.ksl.com/article/50689969/utah-highway-patrol-troopers-are-watching-for-distracted-and-impaired-drivers-this-summer; accessed October 20, 2024).
+Stanford Open Policing Project, “The Result of Nationwide Analysis of Traffic Stops and Searches” (available at https://openpolicing.stanford.edu/findings/; accessed on October 20, 2024). 
+State Appellate Defender Office (SADO), “Introducing the Intoxilyzer 9000 – Michigan’s New Breath Test Instrument,” 2017 (available at https://www.sado.org/Articles/Article/1034; accessed on October 20, 2024).
+State v. O'Key, 321 Or. 285, 899 P.2d 663 (1995) (available at https://law.justia.com/cases/oregon/supreme-court/1995/321-or-285.html; accessed on October 20, 2024).
+Sundelin T, Lekander M, Kecklund G, Van Someren EJ, Olsson A, Axelsson J. “Cues of Fatigue: Effects of Sleep Deprivation on Facial Appearance.” Sleep. 2013 Sep 1; 36(9):1355-60. doi: 10.5665/sleep.2964. PMID: 23997369; PMCID: PMC3738045. 
+Sutton & Janelle, PLLC, “Field Sobriety Tests Explained: Horizontal Gaze Nystagmus Test,” Suttonandjanelle.com (available at https://www.suttonandjanelle.com/blog/2015/february/field-sobriety-tests-explained-horizontal-gaze-n/; accessed on October 20, 2024). 
+Utah State Bulletin, November 15, 2015, vol. 2015, no. 22.
+Vandervort-Clark, Amy, “What Is Horizontal Gaze Nystagmus (HGN)?” FindLaw (available at https://www.findlaw.com/dui/arrests/what-is-horizontal-gaze-nystagmus-hgn.html#:~:text=Horizontal%20gaze%20nystagmus%20(HGN)%20is,of%20impairment%20in%20DUI%20cases.; accessed on October 20, 2024). 
+Video evidence presented by the state: Video I: Inside Officer 2’s Squad Car (00:21:37); Video II: Officer 2’s Dashcam (00:20:40); Video III: Officer 2’s Bodycam (22:18); Video IV: Corporal Ernstsen’s Bodycam (01:26:38); Video V: Blank (no visual, no audio, 01:25:10); Video VI: Corporal Ernstsen’s Rear-Seat Camera (01:25:10) VII: Cpl. Ernstsen’s Dashcam (01:25:30). 
+Zils, Elizabeth, Aelxa Sprenger, Will Heide et. al., “Differential effects of Sleep Deprivation on Saccadic Eye Movements,” Sleep. 2005, 28(9):1109-15. doi: 10.1093/sleep/28.9.1109. PMID: 16268380.
+
+
+Appendix 1: TRAFFIC-STOP-TO-ARREST RATIOS 
+
+I. Gamma Response
+
+Mr. Golub
+3921 South 2000 East
+Salt Lake City, UT. 84124
+RE: Modified GRAMA Request in Response to Appeal Denial
+Dear Mr. Golub,
+The Utah Department of Public Safety received your modified Government Records Access and Management Act (GRAMA) on October 8, 2024, requesting information regarding:
+“The annual statistics of Cpl. Ernstsen's stops and arrests (i.e. just the numbers for these two categories)”
+After reviewing your modified request, Cpl Ernstsen had the following numbers for stops and arrests for 2022 and 2023.
+
+Total Citations Issued by Utah Highway Patrol Trooper Corporal Brock Ernstsen in 2023–2024, per year
+
+Source: Utah Department of Public Safety, October 8, 2024 
+
+Total Stops and Arrests Made by Utah Highway Patrol Trooper Corporal Brock Ernstsen in 2023–2024, per year
+
+YearsTraffic StopsArrests2024541962023455109
+Monica Minaya
+Government Records Ombudsman
+346 S. Rio Grande
+Salt Lake City, UT 84101-1106
+Phone: (385) 227-1226
+Email: mminaya@utah.gov
+An appeal to the State Records Committee should be sent to the address below, and a copy must also simultaneously be served upon the Utah Department of Public Safety:
+Rebekkah Shaw
+Executive Secretary of the State Records Committee
+346 S. Rio Grande
+Salt Lake City, UT 84101-1106
+Phone: 801-531-3834
+E-mail: SRCsecretary@utah.gov
+Respectfully,
+
+Melanie Marlowe
+Quality and Process Improvement Director
+Utah Department of Public Safety
+
+The table below was created by combined the two tables acquired through our GRAMMA request. NB The information for 2024 is dated to October 1, 2024. It is reasonable to presume that after the holiday season (Halloween, Thanksgiving, Christmas, and New Years Eve) the number of arrests made in 2024 will be higher than in 2023.
+
+II. Stop-to-Arrest Ratios
+
+
+A. Statistics on the federal level
+
+
+
+The federal average ratio of arrests to traffic stops across the United States is generally low, though it varies depending on jurisdiction, race, and geography. On average, the percentage of traffic stops that result in an arrest is typically around 2–6%. The Stanford Open Policing Project produced an analysis of nearly 100 million traffic stops across the country and found that a relatively small percentage of traffic stops resulting in arrests, approximately 2–4% depending on geography and race. According to the “2018 Police-Public Contact Survey” performed by the Bureau of Justice Statistics, approximately 3% of all traffic stops led to arrests. This survey provides a comprehensive overview of police stops and subsequent actions across various federal, state, and local agencies. 
+In summary, the federal average for arrests following traffic stops is typically around 2% to 6%, though this is highly dependent on the place the arrest takes place and the race of the arrestee.
+
+B. Statistics for the state of Utah
+
+
+
+Department of Public Safety Annual Report, 2022 (available at https://dpsnews.utah.gov/wp-content/uploads/sites/37/2023/01/2022-Annual-Report-FOR-UPLOAD.pdf; accessed on October 20, 2024)
+
+Gereau, Jared, “By Utah Highway Patrol releases annual year-end statistics,” Utah Public Radio, 2022 (available at https://www.upr.org/utah-news/2022-12-12/utah-highway-patrol-releases-annual-year-end-statistics; accessed on October 20, 2024). 
+
+C. Statistics for Corporal Brock Ernstsen (Badge No. 311)
+
+Total Stops and Arrests (Including DUIs) Made by Utah Highway Patrol Trooper Corporal Brock Ernstsen in 2023–2024, per year
+
+YearsTotal Traffic StopsTotal ArrestsTotal DUI Arrests2024*54197972023455109106
+* Information was obtained on October 16, 2024. 
+
+
+Appendix II: Deposition Transcript (transcribed by Peter Golub from audio acquired from the court)
+
+Deposition Transcript May, 29 2024
+Case # 235900706 
+State of Utah vs. Peter Golub
+SLCCRTW47_20240529-0947_01dab1ad335c5a80
+
+NB: The Em dash indicates the speaker being interrupted. Ellipses indicates a long pause. All interjections are included as the transcript attempts to capture the totality of the dialogue. Due to the low quality of the provided recording, this transcription is not intended to be a perfect facsimile of the deposition but instead serve as a reference to citations made in the motion. 
+
+Judge Elizabeth Hruby-Mills [00:01]: Does defense waive reading? 
+
+Defense Attorney Daniel Frazier [00:03]: We do your honor. 
+
+Judge Elizabeth Hruby-Mills [00:05]:  Alright, Mrs. Dunkelman, are you ready with your first witness? 
+
+Deputy District Attorney Cara Dunkelman [00:06]:  Yes, I just have to go grab him over there. 
+
+Judge Elizabeth Hruby-Mills [00:50]:  Alright, can you join us up here on the witness stand, and you’re gonna be sworn in. 
+
+Court Clerk [reads sworn testimony] [00:58]: Do you affirm the evidence that you give in the matter before the court shall be the truth, the whole truth, and nothing but the truth?
+
+Corporal Brock Ernstsen (Corporal Brock Ernstsen) [01:03]: Yes. 
+
+Judge Elizabeth Hruby-Mills [01:04]: You may be seated. There’s fresh water in the pitcher. 
+
+Corporal Brock Ernstsen [01:15]: Thank you. 
+
+Deputy District Attorney Cara Dunkelman [01:17]: Are you comfortable in that chair? 
+
+Corporal Brock Ernstsen [01:18]: Yeah. 
+
+Deputy District Attorney Cara Dunkelman [00:19]: Okay. Would you mind stating your full name, spelling both your first name and last name for the record? 
+
+Corporal Brock Ernstsen [01:21]: Yeah, it’s Brock Ernstsen, B-R-O-C-K E-R-N-S-T-S-E-N.
+
+Deputy District Attorney Cara Dunkelman [01:28]: Um, and, where do you currently work? 
+
+Corporal Brock Ernstsen [01:31]: Utah Highway Patrol. 
+
+Deputy District Attorney Cara Dunkelman [01:34]: And what are you…or I guess, were you working with the highway patrol on September 6, 2023? 
+
+Corporal Brock Ernstsen [00:39]: Yes. 
+
+Deputy District Attorney Cara Dunkelman [00:41]: And what, um, is your, um, is your position with them? 
+
+Corporal Brock Ernstsen [01:45]: Uh, corporal. 
+
+Deputy District Attorney Cara Dunkelman [01:46]: Okay, um, and was that the position you had on September 6, 2023?
+
+Corporal Brock Ernstsen [01:52]: Yes. 
+
+Deputy District Attorney Cara Dunkelman [01:53]: Um, do you conduct traffic stops for that position? 
+
+Corporal Brock Ernstsen [01:57]: I do. 
+
+Deputy District Attorney Cara Dunkelman [01:59]: Are you trained in DUI investigation? 
+
+Corporal Brock Ernstsen [02:01]: Yes. 
+
+Deputy District Attorney Cara Dunkelman [02:02]: Um, are you SFST [Standardized Field Sobriety Test] certified?
+
+Corporal Brock Ernstsen [02:05]: Yes. 
+
+Deputy District Attorney Cara Dunkelman [02:07]: Okay, so were you working on September 6, 2023.
+
+Corporal Brock Ernstsen [02:10]: Yes. 
+
+Deputy District Attorney Cara Dunkelman [02:11]: Were you involved in a traffic stop that would bring you here to court today? 
+
+Corporal Brock Ernstsen [02:16]: Yes. I was. 
+
+Deputy District Attorney Cara Dunkelman [02:19]: Okay. And tell me about, um, I guess, did a vehicle catch your attention on that day?  
+
+Corporal Brock Ernstsen [02:24]: It did, yes. 
+
+Deputy District Attorney Cara Dunkelman [02:25]: And where were you when the vehicle caught your attention? 
+
+Corporal Brock Ernstsen [02:27]: Um… I was… just south of Kensington Ave. I initially saw the vehicle at about 1600 south on State St. 
+
+Deputy District Attorney Cara Dunkelman [02:39]: Is that in Salt Lake County? 
+
+Corporal Brock Ernstsen [02:42]: Yes. 
+
+Deputy District Attorney Cara Dunkelman [02:43]: And what type of vehicle was it? 
+
+Corporal Brock Ernstsen [02:46]: Silver Hyundai Sonata. 
+
+Deputy District Attorney Cara Dunkelman [02:47]: What caught your attention about that vehicle? 
+
+Corporal Brock Ernstsen [02:50]: Um, when it pulled away from the curb, there was no blinking signal light, and then when it went across that first right lane and into the middle lane without signaling as well [sic]. 
+
+Deputy District Attorney Cara Dunkelman [03:01]: Is that a violation of the law? 
+
+Corporal Brock Ernstsen [03:03]: It is. 
+
+Deputy District Attorney Cara Dunkelman [03:04]: And what did you do after making this observation?
+
+Corporal Brock Ernstsen [03:08]: Uh, I got behind the vehicle and followed it for a little while and I initiated the traffic stop. 
+
+Deputy District Attorney Cara Dunkelman [03:12]: And when you initiated the traffic stop, did the vehicle pull over? 
+
+Corporal Brock Ernstsen [03:16]: Yeah. 
+
+Deputy District Attorney Cara Dunkelman [03:17]: Okay. And did you approach the vehicle? 
+
+Corporal Brock Ernstsen [03:21]: I did. 
+
+Deputy District Attorney Cara Dunkelman [03:22]: What side of the vehicle did you approach on? 
+
+Corporal Brock Ernstsen [03:26]: Um, the driver’s side. 
+
+Deputy District Attorney Cara Dunkelman [03:27]: Okay. And tell me about that first interaction with the driver. 
+
+Corporal Brock Ernstsen [03:31]: Um, when I was speaking with him, um, I could smell an odor of an alcoholic beverage coming from the vehicle. I observed his eyes were glossy and bloodshot, and his speech seemed slurred speech at times.
+
+Deputy District Attorney Cara Dunkelman [03:43]: Okay. Did you identify him? 
+
+Corporal Brock Ernstsen [00:46]: I did. 
+
+Deputy District Attorney Cara Dunkelman [00:47]: How did you identify him? 
+
+Corporal Brock Ernstsen [03:49]: His driver’s license. 
+
+Deputy District Attorney Cara Dunkelman [03:50]: Is that when you found out his name? 
+
+Corporal Brock Ernstsen [03:52]: Yes. 
+
+Deputy District Attorney Cara Dunkelman [03:53]: And what was his name? 
+
+Corporal Brock Ernstsen [03:54]: Peter Golub. 
+
+Deputy District Attorney Cara Dunkelman [03:55]: Do you see him in courtroom, Sir? 
+
+Corporal Brock Ernstsen [03:56]: I do.
+
+Deputy District Attorney Cara Dunkelman [03:58]: You mind pointing him out to identify him in the courtroom?
+
+Corporal Brock Ernstsen [04:01]: Yeah, he’s right here in the suit [points at defendant] with the reddish tie and the blue, uh… a blue shirt underneath it. 
+
+Deputy District Attorney Cara Dunkelman [04:08]: Your Honor, does the court reflect this identification?
+
+Judge Elizabeth Hruby-Mills [04:10]: It will reflect. 
+
+Deputy District Attorney Cara Dunkelman [04:12]: Um, did you ask him for any other documents other than his driver’s license? 	
+
+Corporal Brock Ernstsen [04:15]: I asked for his proof of insurance for the vehicle. 
+
+Deputy District Attorney Cara Dunkelman [04:18]: Okay, and, um, anything else about his response to that question?
+
+Corporal Brock Ernstsen [04:23]: Um, he handed me the registration and some other papers, um, instead of the insurance.
+
+Deputy District Attorney Cara Dunkelman [04:30]: Um, did you ask him any questions during this… I guess at this point, did you have any concerns about him as a driver? 
+
+Corporal Brock Ernstsen [04:37]: Uh, yeah, I was suspicions that he had been consuming alcoholic beverages.
+
+Deputy District Attorney Cara Dunkelman [04:42]: Okay, based on that suspicion, did you ask him any follow-up questions? 
+
+Corporal Brock Ernstsen [04:45]: I asked if he’d had anything to drink that night.
+
+Deputy District Attorney Cara Dunkelman [04:48]: How did he respond? 
+
+Corporal Brock Ernstsen [04:49]: He said he had a couple of Coronas at the bar about an hour earlier. 
+
+Deputy District Attorney Cara Dunkelman [04:56]: Okay. What did you do from there? 
+
+Corporal Brock Ernstsen [05:00]: I went back and performed a records check of his driver’s license and vehicle registration, and when I went back the vehicle, I asked him to perform field sobriety tests. 
+
+Deputy District Attorney Cara Dunkelman [05:09]: Did you ask him to do a PBT? 
+
+Corporal Brock Ernstsen [05:12]: I did at the end.
+
+Deputy District Attorney Cara Dunkelman [05:14]: Oh, so that this was after the roadside test? 
+
+Corporal Brock Ernstsen [05:19]: After the field sobriety tests, yeah. 
+
+Deputy District Attorney Cara Dunkelman [05:21]: Okay, I don’t wanna get ahead of myself. So, um, anything… did you notice anything else when he exited the vehicle? 
+
+Corporal Brock Ernstsen [05:23]: He braced himself with both hands on the door as he was exiting the vehicle.
+
+Deputy District Attorney Cara Dunkelman [00:31]: Okay, um, and, did he agree to do the roadside test? 
+
+Corporal Brock Ernstsen [05:36]: The… yes.  
+
+Deputy District Attorney Cara Dunkelman [05:40]: So I wanna walk through this. Did you… what was the first maneuver that you began with? 
+
+Corporal Brock Ernstsen [05:43]: Uh, the first field sobriety test was the Horizontal Gaze Nystagmus test. 
+
+Deputy District Attorney Cara Dunkelman [05:49] Okay, and did you give him instructions how to do this test? 
+
+Corporal Brock Ernstsen [05:51] Yes. 
+
+Deputy District Attorney Cara Dunkelman [05:53] And was there any clues on this test?
+
+Corporal Brock Ernstsen [05:55] Six out of the six possible.
+
+Deputy District Attorney Cara Dunkelman [06:00] Um, sorry, and any sway or anything that was, like, concerning you about it?
+
+Corporal Brock Ernstsen [06:13] Yeah, a lot of his standing still during the HGN test I observed he had a slight circular sway. 
+
+Deputy District Attorney Cara Dunkelman [06:20] Um, so, let’s talk about the next test that you did. What was that one?
+
+Corporal Brock Ernstsen [06:25] The, um, Walk-And-Turn test. 
+
+Deputy District Attorney Cara Dunkelman [06:28] Okay, did you explain the instructions for this test? 
+
+Corporal Brock Ernstsen [06:31] I did, and I demonstrated it. 
+
+Deputy District Attorney Cara Dunkelman [06:33] Okay. And did you observe any clues on this test?
+
+Corporal Brock Ernstsen [06:37] Yes. I observed four out of the eight possible clues. 
+
+Deputy District Attorney Cara Dunkelman [06:41] Okay, um, okay, and do you remember what those were? 
+
+Corporal Brock Ernstsen [06:47] Yes, um, on the first set of nine steps, he stopped and asked a question, and he made an improper turn by taking one large step. Uh, and then, took his front foot off the line and stepped backwards with it. Um, the second set of nine steps, he stopped and asked a question again, and he stepped off the line once and the actual number of steps taken was 11.2 
+
+Deputy District Attorney Cara Dunkelman [07:13] Okay, what’s the next test you did after that?
+
+Corporal Brock Ernstsen [07:15] Um, the One-Leg-Stand test. 
+
+Deputy District Attorney Cara Dunkelman [07:17] Okay, and did you explain and demonstrate that test as well? 
+
+Corporal Brock Ernstsen [07:19] Yes. 
+ 
+Deputy District Attorney Cara Dunkelman [07:20] And did you observe any clues on that test as well? 
+
+Corporal Brock Ernstsen [07:23] Um, nothing that I counted in my report. I probably could have counted a couple of clues but I gave him the benefit of the doubt. And didn’t count them. I just counted zero clues on that one.3 
+
+Deputy District Attorney Cara Dunkelman [07:31] Okay, um, and, I guess, are you able to explain the difference between clues and indicators when you’re conducting a DUI investigation?  
+
+Corporal Brock Ernstsen [07:40] Yes. 
+
+Deputy District Attorney Cara Dunkelman [07:41] Okay, and can you tell me about that? 
+
+Corporal Brock Ernstsen [07:40] So, the clues, um, on a standardized field sobriety test are, um, specific things that we’re looking for, uh, so for example for the Horizontal Gaze Nystagmus test there are six clues. Um, there are eight clues on the Walk-And-Turn test and four clues on the One-Leg-Stand test. Anything else that, uh, is mentioned is considered an indicator, like odor of an alcoholic beverage, glossy bloodshot eyes, uh, confusion, dexterity, things like those are indicators.   
+
+Deputy District Attorney Cara Dunkelman [08:13] Okay, so while they don’t, um, NHTSA is the one who creates the standard, um, clues the field sobriety? Is that right?
+
+Corporal Brock Ernstsen [08:22] Correct.
+
+Deputy District Attorney Cara Dunkelman [08:23] Okay, so if, um, they’re not one of the… so, for example, the odor of alcohol, bloodshot, glossy eyes, those could be indications of impairment. They’re just not notated clues that relates to the field sobriety test?  
+
+Corporal Brock Ernstsen [08:34] Correct.
+ 
+Deputy District Attorney Cara Dunkelman [08:35] Okay, it sounds like you saw some of those possible indications of impairment in addition to what you testified to in the field sobriety test.  
+
+Corporal Brock Ernstsen [08:43] Yes.
+
+Deputy District Attorney Cara Dunkelman [08:45] Okay, um, did you ask, um, the defendant to do a Preliminary Breath Test?  
+
+Corporal Brock Ernstsen [08:49] I did.
+
+Deputy District Attorney Cara Dunkelman [08:50] Okay, um and how did he respond to that question?
+
+Corporal Brock Ernstsen [08:53] He did not wanna do it.4 
+
+Deputy District Attorney Cara Dunkelman [08:55] Okay, and did he make any comments about how he might perform on the test? 
+
+Corporal Brock Ernstsen [09:02] Um, I asked him after he refused to blow into the PBT how much he had had to drink that night and he said he didn’t know but he thought he would blow over. He also said that he should not go out with his friends at night.
+ 
+Deputy District Attorney Cara Dunkelman [09:17] Okay. Um, so tell me what you did after the defendant refused to do the PBT? 
+
+Corporal Brock Ernstsen [09:25] I arrested him for a DUI. 
+
+Deputy District Attorney Cara Dunkelman [09:28] Okay. Um, okay, and was he transported anywhere? 
+
+Corporal Brock Ernstsen [09:32] Uh, yes. 
+
+Deputy District Attorney Cara Dunkelman [09:34] Okay, and where was that? 
+
+Corporal Brock Ernstsen [09:35] Um…  I believe it was special operations. 
+
+Deputy District Attorney Cara Dunkelman [09:41] I guess let me ask you another question. Um, was he asked to submit to a chemical breath test? 
+
+Corporal Brock Ernstsen [09:43] Yes. 
+
+Deputy District Attorney Cara Dunkelman [09:46] Okay, and was that done?
+
+Corporal Brock Ernstsen [09:49] Yes.
+
+Deputy District Attorney Cara Dunkelman [09:50] Okay. And what was the result of that? 
+
+Corporal Brock Ernstsen [09:34] 0.104. 
+
+Deputy District Attorney Cara Dunkelman [09:35] And what is the legal limit in Utah? 
+
+Corporal Brock Ernstsen [09:40] .05. 
+
+Deputy District Attorney Cara Dunkelman [09:41] Okay, um, and, uh, what… did you end up citing him for anything to do with the driving the vehicle you had observed as well. 
+
+Corporal Brock Ernstsen [09:59] Yes. For failure to signal. 
+
+Deputy District Attorney Cara Dunkelman [10:02] Okay. Nothing further, Your Honor.
+
+Judge Elizabeth Hruby-Mills: [10:011] Mr. Frazier. 
+
+Defense Attorney Danny Frazier [10:015] How many times did you say you observed him fail to signal? 
+
+Corporal Brock Ernstsen [10:20] How many times? 
+
+Defense Attorney Daniel Frazier [10:21] Yes. 
+
+Corporal Brock Ernstsen [10:23] Um, I mean he didn’t signal when he pulled away from the curb. He didn’t signal on the lane change. 
+
+Defense Attorney Daniel Frazier [10:30] Twice? 
+
+Corporal Brock Ernstsen [10:31] I guess you could call it twice? 
+
+Defense Attorney Daniel Frazier [10:33] Then you followed him for a while?  
+
+Corporal Brock Ernstsen [10:37] Yes.
+
+Defense Attorney Daniel Frazier [10:38] How long is a while? A while?
+
+Corporal Brock Ernstsen [10:37] Just a few blocks, several blocks, a couple blocks.5 
+
+Defense Attorney Daniel Frazier [10:44] And when was the purpose of that?
+
+Corporal Brock Ernstsen [10:49] To see if there were any other violations? 
+
+Defense Attorney Daniel Frazier [10:51] Um, what was observed during the time you followed him? 
+
+Corporal Brock Ernstsen [10:53] I didn’t see any other violations. So I just stopped him for the original one.
+
+Defense Attorney Daniel Frazier [10:59 Why did you—
+
+Corporal Brock Ernstsen [11:00] So I just stopped him for the original one, the original violation. 
+
+Defense Attorney Daniel Frazier [11:04] Oh, okay. Was there anything in that initial stop that, that was an indicator to you as some sort of impairment? 
+
+Corporal Brock Ernstsen [11:12] After I initiated the traffic stop, you mean? 
+
+Defense Attorney Daniel Frazier [11:16] In the course of observing him, um, as he, uh, drove and operated the motor vehicle? 
+
+Corporal Brock Ernstsen [11:22] Um, like I said, just the initial way he pulled away from the curb.  
+
+Defense Attorney Daniel Frazier [11:27] And that was evidence to you of impairment?  
+
+Corporal Brock Ernstsen [11:28] Yeah, it’s possible. 
+
+Defense Attorney Daniel Frazier [11:30] Possible? Did you consider that as an indicator or clue of impairment?
+
+Corporal Brock Ernstsen [11:37] Uh, not necessarily, not a clue, for sure not a clue. 
+
+Defense Attorney Daniel Frazier [11:41] There was nothing wrong with the driving pattern that was a clue of impairment? 
+
+Corporal Brock Ernstsen [11:47] No. 
+
+Defense Attorney Daniel Frazier [11:49] Okay. And you still know the difference between an indicator and a clue? Was there anything there? I’m trying to say this as clear as I can, that would indicate in your mind an indicator of impairment? 
+
+Corporal Brock Ernstsen [12:03] Uh, it’s possible. I mean sometimes people who are impaired don’t signal and you pull out abruptly into traffic.  
+
+Defense Attorney Daniel Frazier [12:11] Okay, so, I guess I already asked you this question. I apologize. I’m pretty sure I know the answer. But that wasn’t… not anything of the level or a basis of impairment? 
+
+Corporal Brock Ernstsen [12:24] I think that’s part of the whole picture. It’s not the sole reason that I believed he was impaired. That’s not why I arrested him for a DUI. But that was part of the picture. 
+
+Defense Attorney Daniel Frazier [12:36] And then after you indicated… you stopped the vehicle… uh, there was no traffic violations after a few blocks of following him, not observing of any other violations? 
+
+Corporal Brock Ernstsen [12:52] Yeah, I initiated the traffic stop. 
+
+Defense Attorney Daniel Frazier [12:55] And about what time of day or night was this? 
+
+Corporal Brock Ernstsen [12:58] Um, it was definitely dark. It was probably after midnight.6 
+
+Defense Attorney Daniel Frazier [13:06] What was the traffic light on that? 
+
+Corporal Brock Ernstsen [13:10] Uh… moderate. 
+
+Defense Attorney Daniel Frazier [13:19] After you approached the vehicle, you indicated you did so on the passenger side? 
+
+Corporal Brock Ernstsen [13:26] No, driver’s side. 
+
+Defense Attorney Daniel Frazier [13:27] Driver’s side? Was his window rolled down at the time you approached him? 
+
+Corporal Brock Ernstsen [13:35] Uh, at some point he rolled his window down, cause I was talking to him.
+
+Defense Attorney Daniel Frazier [13:36] Okay, and uh, what was the next thing that, uh, you observed. 
+
+Corporal Brock Ernstsen [13:45] You mean when I initially approached the vehicle? I could see he had glossy, bloodshot eyes and I, uh, I could smell the odor of an alcoholic beverage coming from the vehicle. 
+
+Defense Attorney Daniel Frazier [14:18] Were there any other observations of alcoholic containers or any evidence of alcohol usage other than the two things you indicated? Did you observe any containers? Or anything like that?
+
+Corporal Brock Ernstsen [14:34] No containers. 
+
+Defense Attorney Daniel Frazier [14:41] And after you, uh, observed bloodshot eyes and the odor of alcohol coming from the vehicle, what was the thing you did next? 
+
+Corporal Brock Ernstsen [14:54] I asked him if he’d had anything to drink? 
+
+Defense Attorney Daniel Frazier [14:58] And his response was a minimal amount? In your mind, a couple of beers.
+
+Corporal Brock Ernstsen [15:04] Um, he told me he a couple of Coronas. 
+
+Defense Attorney Daniel Frazier [15:08] How many? 
+
+Corporal Brock Ernstsen [15:11] He told me he had a couple of Coronas at the bar an hour earlier. 
+
+Defense Attorney Daniel Frazier [15:12] And was there anything indicating to you that there was other than that amount of alcohol in his system? 
+
+Corporal Brock Ernstsen [15:21] I don’t know.
+
+Defense Attorney Daniel Frazier [15:23] Alright. And you say that you are certified in doing breathe test results for the detection of impairment? 
+
+Corporal Brock Ernstsen [15:38] Yes. 
+
+Defense Attorney Daniel Frazier [15:41] And at that point, you’re still saying that you didn’t know whether there was evidence of impairment? 
+
+Corporal Brock Ernstsen [15:49] No. There were several indicators of impairment at this point. 
+
+Defense Attorney Daniel Frazier [15:55] Okay. Well, in your mind, there were no clues about whether there was impairment? 
+
+Corporal Brock Ernstsen [16:02] I mean, I was feeling suspicion.
+
+Defense Attorney Daniel Frazier [16:13] So after you thought you detected alcohol coming from the vehicle, what was the next thing that you did? 
+
+Corporal Brock Ernstsen [16:26] Uh, after he told me he had a couple of drinks at the bar, I went back to my vehicle. Well, I asked him for his insurance and he handed me a bunch of different papers that were not his insurance. And then I went back to my patrol vehicle. I performed a records check. 
+
+Defense Attorney Daniel Frazier [16:44] Then you returned to his vehicle? 
+
+Corporal Brock Ernstsen [16:45] I did. 
+
+Defense Attorney Daniel Frazier [16:47] And on recollection, it was at that point you indicated to him to get out of the vehicle? 
+
+Corporal Brock Ernstsen [16:53] Yes.
+
+Defense Attorney Daniel Frazier [16:54] at that point, you had generated enough evidence, at least in your mind, to suspect him of being impaired? 
+
+Corporal Brock Ernstsen [17:03] Uh… As I said before, my suspicion was growing.  
+
+Defense Attorney Daniel Frazier [17:09] And your purpose in having him come out of the vehicle?
+
+Corporal Brock Ernstsen [17:14] Um, well, I could smell the odor of an alcoholic beverage coming from the vehicle. I’d like to … and he was the only person in the vehicle, so I’d like him to step out, and I could smell it coming from his breath. And at that point, I wanted him to perform field sobriety tests. 
+
+Defense Attorney Daniel Frazier [17:30] And you were able to determine the odor of alcohol, on the record, was coming from him in the form of his breath. 
+
+Corporal Brock Ernstsen [17:39] Um, when he was asked to step out of the vehicle, I could smell the odor of alcohol coming from his breath as he was speaking to me out in the open air.
+
+Defense Attorney Daniel Frazier [17:49] You indicate also that you observed a sway? 
+
+Corporal Brock Ernstsen [17:54] Yes. 
+
+Defense Attorney Daniel Frazier [17:55] When was that? 
+
+Corporal Brock Ernstsen [17:56] While he was standing still during the HGN test. 
+
+Defense Attorney Daniel Frazier [18:00] And was there any right to left, back and forth— 
+
+Corporal Brock Ernstsen [18:03] Circular. 
+
+Defense Attorney Daniel Frazier [18:04] A circular sway. You indicated also that there was a bracing? That he performed or did—
+
+Corporal Brock Ernstsen [18:11] When he was getting out of the vehicle. Yeah. 
+
+Defense Attorney Daniel Frazier [18:14] And what do you mean by bracing? 
+
+Corporal Brock Ernstsen [18:16] He used his hands on the driver door when he was exiting. 
+
+Defense Attorney Daniel Frazier [18:19] To get out of the vehicle? 
+
+Corporal Brock Ernstsen [18:20] Yeah. 
+
+Defense Attorney Daniel Frazier [18:21] And you consider that an indicator of impairment?  
+
+Corporal Brock Ernstsen [18:24] Yeah. It’s a piece of the puzzle. 
+
+Defense Attorney Daniel Frazier [18:24] And the field sobriety… in your at least, uh… the performance of those particular tests, you indicated that he had performed unsatisfactorily or— 
+
+Corporal Brock Ernstsen [18:53] I mean… so… on the eh… well… yeah… oh… I saw multiple clues of impairment during the field sobriety tests. 
+
+Defense Attorney Daniel Frazier [19:04] Right. My question was about your conclusion about his level of performance. 
+
+Corporal Brock Ernstsen [19:12] My conclusion was that he was not alright to drive. 
+
+Defense Attorney Daniel Frazier [19:13] And was it at that point that you placed him under arrest? 
+
+Corporal Brock Ernstsen [19:20] Yes. 
+
+Defense Attorney Daniel Frazier [19:22] And after you placed him under arrest, did you place him into your patrol vehicle? 
+
+Corporal Brock Ernstsen [19:27] I did, mm-hmm. 
+
+Defense Attorney Daniel Frazier [19:28] And did you escort him? 
+
+Corporal Brock Ernstsen [19:29] I did. 
+
+Defense Attorney Daniel Frazier [19:30] And where was he transported? 
+
+Corporal Brock Ernstsen [19:31] I took him to the Special Ops Center and then to jail. 
+ 
+Defense Attorney Daniel Frazier [19:34] And after he was in Special Ops, is that where the breathalyzer test was performed? 
+
+Corporal Brock Ernstsen [19:42] I believe so.   
+
+Defense Attorney Daniel Frazier [19:44] Did you test? 
+
+Corporal Brock Ernstsen [19:46] I did. 
+
+Defense Attorney Daniel Frazier [19:51] And you’re certified to operate—
+
+Corporal Brock Ernstsen [19:53] Yes. 
+
+Defense Attorney Daniel Frazier [19:54] The breathalyzer. 
+
+Corporal Brock Ernstsen [19:56] Mm-hmm. 
+
+Defense Attorney Daniel Frazier [19:59] And you indicated that, at least from your report, and correct me if I’m wrong… you, you… you began tracking the vapor as the same time that it’s listed on the intoxilyzer?
+
+Corporal Brock Ernstsen [20:13] Yes.  
+
+Defense Attorney Daniel Frazier [20:17] And where was he situated in relation to you when you were, um—
+
+Corporal Brock Ernstsen [20:23] Just right in front of me, in my view, in my presence. 
+
+Defense Attorney Daniel Frazier [20:27] And was there anything else that distracted you or caught your attention during the time when you were observing him? 
+
+Corporal Brock Ernstsen [20:34] I don’t believe so. 
+
+Defense Attorney Daniel Frazier [20:37] And what were you doing during that time? 
+
+Corporal Brock Ernstsen [20:39] Just talking to him. Explaining what was gonna happen. 
+
+Defense Attorney Daniel Frazier [20:49] And then you got the result? 
+
+Corporal Brock Ernstsen [20:51] I did. 
+
+Defense Attorney Daniel Frazier [20:52] After you were operating the machine?
+
+Corporal Brock Ernstsen [20:55] Yes. 
+
+Defense Attorney Daniel Frazier [20:57] Were there any problems that you noted while you were performing the test? 
+
+Corporal Brock Ernstsen [21:01] Not that I recall. 
+
+Defense Attorney Daniel Frazier [21:02] No problem in operating the machine? 
+
+Corporal Brock Ernstsen [21:04] Not that I recall. 
+
+Defense Attorney Daniel Frazier [21:06] Or with the machine’s operation? 
+
+Corporal Brock Ernstsen [21:08] Not that I recall.
+
+Defense Attorney Daniel Frazier [21:18] And what did you do next based off that? 
+
+Corporal Brock Ernstsen [21:22] Um… just filled out the forms for the jail, and I took him to jail, and I booked him in.
+
+Defense Attorney Daniel Frazier [21:35] And so after you took him to the jail, you just turned him over to jail staff?
+
+Corporal Brock Ernstsen [21:41] Correct.
+
+Defense Attorney Daniel Frazier [21:42] Was there any point where you read him his rights? 
+
+Corporal Brock Ernstsen [21:44] Uh, I believe so. I believe that was in the parking lot of Special Ops if I remember correctly. 
+
+Defense Attorney Daniel Frazier [21:52] Was that subsequent or after the breathalyzer or subsequent to? 
+
+Corporal Brock Ernstsen [21:56] After. 
+
+Defense Attorney Daniel Frazier [21:58] Okay. And what was his response? 
+
+Corporal Brock Ernstsen [22:03] I don’t recall. I’d have to look at my report. 
+
+Defense Attorney Daniel Frazier [22:15] Just a moment, Your Honor. [Counsel confers with defendant, Peter Golub.]
+
+[Sound comes from WebX monitor used for tele-confernces.]
+
+Judge Elizabeth Hruby-Mills [22:55] Please make sure you’re muted if you’re using WebX. [25:49] Any objections, Mr. Frazier? 
+
+Defense Attorney Daniel Frazier [25:50] No, Your Honor. 
+
+Judge Elizabeth Hruby-Mills [25:52] Alright, so state will be admitted. 
+
+Deputy District Attorney Cara Dunkelman [25:54] Your Honor, would you like . 
+
+Judge Elizabeth Hruby-Mills [25:55] Yes. Thank you. Alright, is the state resting then? 
+
+Deputy District Attorney Cara Dunkelman [26:04] Yes. 
+
+Judge Elizabeth Hruby-Mills [26:07] Mr. Frazier, do you have any witnesses?
+
+Defense Attorney Daniel Frazier [26:08] We do not, Your Honor.7 The client has been advised that he has the right to testify. I recommended he not do that. And he followed that advice. 
+
+Judge Elizabeth Hruby-Mills [26:17] Alright, so with that, um, any summary argument from the state? 
+Deputy District Attorney Cara Dunkelman [26:22] Very briefly, Your Honor. Uh, Your Honor, in this case, the court has heard evidence that… uh, the, uh, that the defendant was driving a vehicle. He was stopped because he failed to signal both when leaving the curb in which the vehicle had been located previously and when moving across lanes of travel. He also didn’t, um, indicate a lane change with his vehicle. And then upon contact with law enforcement, he made an admission… well, I guess, um, I’m a little ahead of myself… the officer began thinking with the defendant, who was the driver of the vehicle. And he, uh, he said that he had an odor of alcohol coming from, um, the vehicle and, um, then later when the defendant stepped out of the vehicle, he isolated it as well. He had impaired speech and glossy, bloodshot eyes. He had made an admission that he had, um, a few Coronas about an hour earlier. As he exited the vehicle, he had to help, I guess, he had to grab the side of the vehicle with both hands. Um, the roadside field tests were completed, during which, um, the officer found that. In conclusion, um, in the roadside there was an indication of impairment, um, a PBT was offered. And the defendant indicated that he did not want to do it, because he would blow over the limit and that he should not have been out with his friends that night.8 Or um, should have not met up with his friends after work on that day. And then, ultimately, the breath test was done, which came back as .104. Um, so, Your Honor, the state would ask that the court find the defendant liable on those charges. 
+
+Judge Elizabeth Hruby-Mills [28:18] Alright, Mr. Frazier. 
+
+Danny Frazier [28:21] Your Honor, I just wanna be silent for a minute. 
+
+Judge Elizabeth Hruby-Mills [28:18] Alright, so based on the information provided by the state and by the witness, I find that the state does has met it’s burden of probable cause with regard to the two charges in the information. So, Sir, you are bound to appear in court as charged. Mr. Frazier, do you want to address the arraignment today? 
+
+Danny Frazier [28:46] Uh, yes, Your Honor, we’d be happy to. We plead not guilty. 
+
+Judge Elizabeth Hruby-Mills [28:51] Okay, so we will not that, and when you do want to have your pre-trial conference? 
+
+Danny Frazier [28:58] Uh… probably for me, Your Honor, the mid to first part of August, end of July, mid part of August.
+
+Judge Elizabeth Hruby-Mills [29:18] Do you wanna come back on… We could do July 15th. Or we can go August 5th. 
+
+Danny Frazier [28:28] I gotta jury trial on July 15th, Your Honor. 
+
+Judge Elizabeth Hruby-Mills [29:34] You’re being selected for a jury? 
+
+Danny Frazier [29:36] Oh, no it’s my case. Oh yeah, ha-ha. I wouldn’t last long on a jury, Your Honor. 
+
+Judge Elizabeth Hruby-Mills [29:44] Do you wanna do August 12th or August 5th?
+
+Danny Frazier [29:28] August 5th. 
+
+Judge Elizabeth Hruby-Mills [29:49] Okay, do you wanna come at nine or one? 
+
+Danny Frazier [29:52] Nine. 
+
+Judge Elizabeth Hruby-Mills [28:51] Nine o’clock on August 5th, we’ll have you back for a pre-trial conference. Does the state want to… want to approve this exhibit? Um, make sure you stay in touch with counsel. Alright. Thank you. 
+
+Danny Frazier [30:07] Thank you, Your Honor. 
+
+1 (a)Utah Code Section 41-6a-520: A peace officer requesting a test or tests shall warn a person that refusal to submit to the test or tests may result in criminal prosecution, revocation of the person's license to operate a motor vehicle, a five- or 10-year prohibition of driving with any measurable or detectable amount of alcohol in the person's body depending on the person's prior driving history, and a three-year prohibition of driving without an ignition interlock device if the person:
+(i)has been placed under arrest;
+(ii)has then been requested by a peace officer to submit to any one or more of the chemical tests under Subsection (1); and
+(iii)refuses to submit to any chemical test requested.
+(b)(i)Following the warning under Subsection (2)(a), if the person does not immediately request that the chemical test or tests as offered by a peace officer be administered, a peace officer shall, on behalf of the Driver License Division and within 24 hours of the arrest, give notice of the Driver License Division's intention to revoke the person's privilege or license to operate a motor vehicle.
+(ii)When a peace officer gives the notice on behalf of the Driver License Division, the peace officer shall supply to the operator, in a manner specified by the Driver License Division, basic information regarding how to obtain a hearing before the Driver License Division. (Index: Utah Code; Title 41: Motor Vehicles, Chapter 6a: Traffic Code, Part 5 Driving Under the Influence and Reckless Driving, Section 520 Implied consent to chemical tests for alcohol or drug -- Number of tests -- Refusal -- Warning, report (Effective 5/3/2023).
+2 See Video V.
+3 What are the clues? Which did he observe? Why didn’t he report them? 
+4 PG never refused. PG did not want to be arrested. He said he wanted to go home. But he was never given direct instructions to take the test. 
+5 Officer followed the defendant for over 10 blocks. 
+6 It was 11 pm. 
+7 Peter Golub wanted to testify, and he wanted to call Kay M. as a witness. 
+8 Did not say I would blow over the limit. Did not go out with friends. 
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+MOTION TO SUPPRESS/DISMISS, State vs. Mr. Golub, Case No. 235900706 2
+
+

@@ -1,0 +1,402 @@
+SIM GILL, Bar No. 6389 
+District Attorney for Salt Lake County 
+STEVEN FREDLEY, Bar No. 09451 
+Deputy District Attorney 
+35 East 500 South 
+Salt Lake City, Utah 84111 
+Telephone: (385) 468-7600 
+______________________________________________________________________________ 
+ 
+IN THE THIRD JUDICIAL DISTRICT COURT, SALT LAKE DEPARTMENT IN AND FOR THE COUNTY OF SALT LAKE, STATE OF UTAH 
+ 
+
+ 
+      The State of Utah, through its counsel, Steven Fredley, Deputy District Attorney, hereby requests that the attached jury instructions be included in the instructions to be given to the jury impaneled in the above-referenced matter.   
+Submitted: April 4, 2025 	 	 	 	 	SIM GILL 
+ 	 	 	 	 	 	 	 	District Attorney 
+ 
+ 	 	 	 	 	 	 	 	/s/ Steven Fredley                 . 
+ 	 	 	 	 	 	 	 	STEVEN FREDLEY 
+ 	 	 	 	 	 	 	 	Deputy District Attorney OPENING INSTRUCTIONS 
+ 
+
+Introduction 
+      Members of the Jury, you have been selected and sworn as the jury in this case.  The defendant is accused of committing one or more offenses.  You will decide if the defendant is guilty or not guilty.  I will give you some instructions now and some later.  You are required to consider and follow all my instructions. 
+      Keep an open mind throughout the trial.  At the end of the trial, you will discuss the evidence and reach a verdict.  You took an oath to “well and truly try the issues pending between the parties” and to “render a true and just verdict.”  The oath is your promise to do your duty as a member of the jury.  Be alert.  Pay attention.  Follow my instructions.
+1. Reword intro to focus on jurors’ internal sense of justice instead of scaring them with oaths. 
+2. List and rank elements from most to least favorable for the defense 
+3. Lise reasonable doubts from most to least favorable for the defense (consider what are easiest and hardest to show—focus on easiest to prove even if they seem tangential) 
+
+Information, Plea and Burden of Proof 
+      The prosecution has filed a document—called an “Information”—that contains the charges against the defendant.  The Information is not evidence of anything.  It is only a method of accusing a defendant of a crime.  The Information will now be read. 
+(Read Information) 
+      The defendant has entered a plea of not guilty and denies committing the crime(s).  Every crime has component parts called “elements.”  The prosecution must prove each element beyond a reasonable doubt.  Until then, you must presume that the defendant is not guilty.  The defendant does not have to prove anything.  He does not have to testify, call witnesses, or present evidence. 
+1. List all elements in chronological order. 
+2. List all possible “doubts”
+3. Rank “elements” from most to least favorable to the defense. 
+4. Rank “reasonable doubts” from most to least favorable to the Defense. 
+      
+
+      
+Proof Beyond a Reasonable Doubt 
+      The prosecution has the burden of proving the defendant guilty beyond a reasonable doubt.  Some of you may have served as jurors in civil cases, where you were told that it is only necessary to prove that a fact is more likely true than not true.  In criminal cases, the prosecution’s proof must be more powerful than that.  It must be beyond a reasonable doubt. 
+      Proof beyond a reasonable doubt is proof that leaves you firmly convinced of the defendant’s guilt.  There are very few things in this world that we know with absolute certainty, and in criminal cases the law does not require proof that overcomes every possible doubt.  If, based on your consideration of the evidence, you are firmly convinced that the defendant is guilty of the crime charged, you must find him guilty.  If, on the other hand, you think there is a real possibility that he is not guilty, you must give him the benefit of the doubt and find him not guilty. 
+      Find alternative language. We won’t tell jurors what the “must” or “must not” do. Consider alternative like “follow your conscience.” Lean into the jurors’ goodness, virtue, and nobility. Instead of threatening them (what the State does reflexively) to do something, appeal to the better angels of their nature. 
+Presumption of Innocence 
+      Remember, the fact that the defendant is charged with a crime is not evidence of guilt.  The law presumes that the defendant is not guilty of the crime(s) charged.  This presumption persists unless the prosecution’s evidence convinces you beyond a reasonable doubt that the defendant is guilty. 
+
+Role of Judge, Jury and Lawyers 
+      All of us—judge, jury and lawyers—are officers of the court and have different roles during the trial: 
+• As the judge I [PG1]will supervise the trial, decide legal issues, and instruct you on the law. 
+• As the jury, you must follow the law as you weigh the evidence and decide the factual issues.  Factual issues relate to what did, or did not, happen in this case. 
+• The lawyers will present evidence and try to persuade you to decide the case in one way or the other. 
+      Neither the lawyers nor I decide the case.  That is your role.  Do not be influenced by what you think our opinions might be.  Make your decision based on the law [PG2]given in my instructions and on the evidence presented in court. 
+Evidence 
+      As jurors you will decide whether the defendant is guilty or not guilty.  You must base your decision only on the evidence.  Evidence usually consists of the testimony and exhibits presented at trial.  Testimony is what witnesses say under oath.  Exhibits are things like documents, videos, photographs, or other physical objects. [PG3]
+      The fact that the defendant has been accused of a crime and brought to trial is not evidence.  What the lawyers say is not evidence.  For example, their opening statements and closing arguments are not evidence. 
+
+Objections 
+      Rules govern what evidence may be presented to you.  On the basis of these rules, the lawyers may object to proposed evidence.  If they do, I [PG4]will rule in one of two ways.  If I sustain the objection, the proposed evidence will not be allowed.  If I overrule the objection, the evidence will be allowed.  Do not evaluate the evidence on the basis of whether objections are made. 
+
+Order of the Trial 
+      I will now [PG5]explain how the trial will unfold.  The prosecution will give its opening statement.  An opening statement gives an overview of the case from one point of view, and summarizes what that lawyer thinks the evidence will show.  Defense counsel may choose to make an opening statement right after the prosecutor, or wait until after all of the prosecution’s evidence has been presented, or not make one at all.  You will then hear the prosecution’s evidence.  Evidence is usually presented by calling and questioning witnesses.  What they say is called testimony.  A witness is questioned first by the lawyer who called that witness and then by the opposing lawyer. [PG6]
+      After the lawyers finish with their questions you will have the opportunity to submit questions.  In a moment I will explain how to do this. 
+      Consider all testimony, whether from direct or cross-examination, regardless of who calls the witness.  After the prosecution has presented all its evidence, the defendant may present evidence, though the defendant has no duty to do so.  If the defendant does present evidence the prosecution may then present additional evidence.  After both sides have presented all their evidence, I will give you final instructions on the law you must follow in reaching a verdict.  You will then hear closing arguments from the lawyers.  The prosecutor will speak first, followed by the defense counsel.  Then the prosecutor speaks last, because the government has the burden of proof.  Finally, you will deliberate in the jury room.  You may take your notes with you.  You will discuss the case and reach a verdict. 
+Conduct of Jurors 
+      From time to time I will call a recess.  It may be for a few minutes or longer.  During recesses, do not talk about this case with anyone—not family, not friends, not even each other.  Until the trial is over, do not mingle or talk with the lawyers, parties, witnesses or anyone else connected with the case.  Court clerks or bailiffs can answer general questions, such as the length of breaks or the location of restrooms.  But they cannot comment about the case or anyone involved.  The goal is to avoid the impression that anyone is trying to influence you improperly.  If people involved in the case seem to ignore you outside of court, they are just following this instruction. 
+      Until the trial is over, do not read or listen to any news reports about this case.  If you observe anything that seems to violate this instruction, report it immediately to a clerk or bailiff. 
+
+Further Admonition about Electronic Devices 
+      Jurors have caused serious problems during trials by using computer and electronic communication technology.  You may be tempted to use these devices to investigate the case, or to share your thoughts about the trial with others.  However, you must not use any of these electronic devices while you are serving as a juror. [PG7]
+      You violate your oath as a juror if you conduct your own investigations or communicate about this trial with others, and you may face serious consequences if you do.  Let me be clear: do not “Google” the parties, witnesses, issues, or counsel; do not “Tweet” or text about the trial; do not use Blackberries [PG8]or iPhones to gather or send information on the case; do not post updates about the trial on Facebook pages; do not use Wikipedia or other internet information sources, etc.  Even using something as seemingly innocent as “Google Maps” [PG9]can result in a mistrial.  Please understand that the rules of evidence and procedure have developed over hundreds of [PG10]years in order to ensure the fair resolution of disputes.  The fairness of the entire system depends on you reaching your decisions based on evidence presented to you in court, and not on other sources of information. 
+      Post-trial investigations are common and can disclose these improper activities.  If they are discovered, they will be brought to my attention and the entire case might have to be retried, at substantial cost. 
+      
+ 
+INSTRUCTION NO. ___ 
+Note-taking 
+      Feel free to take notes during the trial to help you remember the evidence, but do not let note-taking distract you. 
+
+CLOSING INSTRUCTIONS 
+ 
+ 
+
+Closing Roadmap 
+      Members of the jury, you now have all the evidence.  Three things remain to be done.  First, I will give you additional instructions that you will follow in deciding this case.  Second, the lawyers will give their closing arguments.  The prosecutor will go first, then the defense. Because the prosecution has the burden of proof, the prosecutor may give a rebuttal.  Finally, you will go to the jury room to discuss and decide the case. 
+      
+Juror Duties 
+      You have two main duties as jurors.  The first is to decide from the evidence what the facts are.  Deciding what the facts are is your job, not mine[PG11].  The second duty is to take the law I give you in the instructions, apply it to the facts, and decide if the prosecution has proved the defendant guilty beyond a reasonable doubt.  
+      You are bound by your oath to follow the instructions that I give you, even if you personally disagree with them.  This includes the instructions I gave you before trial, any instructions I may have given you during the trial, and these instructions.  All the instructions are important, and you should consider them as a whole.  The order in which the instructions are given does not mean that some instructions are more important than others.  Whether any particular instruction applies may depend upon what you decide are the true facts of the case.  If an instruction applies only to facts or circumstances you find do not exist, you may disregard that instruction. 
+      Perform your duties fairly.  Do not let any bias[PG12], sympathy or prejudice that you may feel toward one side or the other influence your decision in any way.  You must also not let yourselves be influenced by public opinion. 
+Closing Arguments 
+      When the lawyers give their closing arguments, keep in mind that they are advocating their views of the case.  What they say during their closing arguments is not evidence.  If the lawyers say anything about the evidence that conflicts with what you remember, you are to rely on your memory of the evidence.  If they say anything about the law that conflicts with these instructions, you are to rely on these instructions. 
+
+Legal Rulings 
+      During the trial I have made certain rulings.  I made those rulings based on the law, and not because I favor one side or the other. However, if I sustained an objection, did not accept evidence offered by one side or the other, or ordered that certain testimony be stricken, then you must not consider those things in reaching your verdict. 
+
+Judicial Neutrality 
+      As the judge, I am neutral. [PG13] If I have said or done anything that makes you think I favor one side or the other, that was not my intention.  Do not interpret anything I have done as indicating that I have any particular view of the evidence or the decision you should reach. 
+
+Evidence-Closing 
+You must base your decision only on the evidence that you saw and heard here in court.  
+Evidence includes:  [PG14]
+• what the witnesses said while they were testifying under oath;  
+• any exhibits admitted into evidence; and  
+• any facts to which the parties have stipulated, that is to say, facts to which they have agreed.  
+Nothing else is evidence. The lawyers’ statements and arguments are not evidence.  Their objections are not evidence.  My legal rulings and comments, if any, are not evidence.  In reaching a verdict, consider all the evidence as I have defined it here, and nothing else.  You may also draw all reasonable inferences from that evidence. 
+
+Witness Credibility 
+      In deciding this case you will need to decide how believable each witness was.  Use your judgment and common sense.  [PG15]Let me suggest a few things to think about as you weigh each witness’s testimony: 
+• How good was the witness’s opportunity to see, hear, or otherwise observe what the witness testified about? 
+• Does the witness have something to gain or lose from this case? 
+• Does the witness have any connection to the people involved in this case? 
+• Does the witness have any reason to lie or slant the testimony? 
+• Was the witness’s testimony consistent [PG16]over time?  If not, is there a good reason for the inconsistency?  If the witness was inconsistent, was it about something important or unimportant? 
+• How believable was the witness’s testimony in light of other evidence presented at 
+trial? 
+• How believable was the witness’s testimony in light of human experience? 
+• Was there anything about the way the witness testified that made the testimony more or less believable? 
+      In deciding whether or not to believe a witness, you may also consider anything else you think is important.  You do not have to believe everything that a witness said.  You may believe part and disbelieve the rest.  On the other hand, if you are convinced that a witness lied, you may disbelieve anything the witness said.  In other words, you may believe all, part, or none of a witness’s testimony.  You may believe many witnesses against one or one witness against many.  
+      
+ 
+In deciding whether a witness testified truthfully, remember that no one’s memory is perfect.  
+Anyone can make an honest mistake. Honest people may remember the same event differently. 
+
+Presumption of Innocence-Closing 
+      Remember, the fact that the defendant is charged with a crime is not evidence of guilt.  The law presumes that the defendant is not guilty of the crime(s) charged.  This presumption persists unless the prosecution’s evidence convinces you beyond a reasonable doubt that the defendant is guilty. 
+ 
+
+Reasonable Doubt-Closing 
+      As I instructed you before, proof beyond a reasonable doubt is proof that leaves you firmly convinced of the defendant’s guilt.  There are very few things in this world that we know with absolute certainty, and in criminal cases the law does not require proof that overcomes every possible doubt.  If the evidence leaves you firmly convinced that the defendant is guilty of the crime charged, you must find the defendant “guilty.”  On the other hand, if there is a real possibility that he is not guilty, you must give the defendant the benefit of the doubt and return a verdict of “not guilty.” 
+[PG17]
+Direct/Circumstantial Evidence 
+      Facts may be proved by direct or circumstantial evidence.  The law does not treat one type of evidence as better than the other. 
+      Direct evidence can prove a fact by itself.  It usually comes from a witness who perceived firsthand the fact in question.  For example, if a witness testified he looked outside and saw it was raining, that would be direct evidence that it had rained. 
+      Circumstantial evidence is indirect evidence.  It usually comes from a witness who perceived a set of related events, but not the fact in question.  However, based on that testimony someone could conclude that the fact in question had occurred.  For example, if a witness testified that he looked outside and saw that the ground was wet and people were closing their umbrellas, that would be circumstantial evidence that it had rained. 
+      Before you can find the defendant guilty of any charge, there must be enough evidence— direct, circumstantial, or some of both—to convince you of the defendant’s guilt beyond a reasonable doubt.  It is up to you to decide. 
+Defendant Testifying 
+      The defendant testified at trial.  Another instruction mentions some things for you to think about in weighing testimony.  Consider those same things in weighing the defendant’s testimony.  
+Don’t reject the defendant’s testimony merely because he is accused of a crime. 
+
+Defendant Not Testifying 
+      A person accused of a crime may choose whether or not to testify.  In this case the defendant chose not to testify.  Do not hold that choice against the defendant.  Do not try to guess why the defendant chose not to testify.  Do not consider it in your deliberations.  Decide the case only on the basis of the evidence.  The defendant does not have to prove that he is not guilty.  The prosecution must prove the defendant’s guilt beyond a reasonable doubt. 
+ 
+
+Defendant May Not Select Chemical Test 
+      You are instructed that under Utah law a person operating a motor vehicle in this State is considered to have given consent to a chemical test or tests of his breath, blood, or urine for the purposes of determining whether he was operating or in actual physical control of a motor vehicle while under the influence of alcohol, any drug, or a combination thereof.  [PG18]
+      When an officer arrests a person for DUI, the officer may request the person to submit to a test of his breath, blood, or urine to determine the person’s blood or breath alcohol level.  A person who has been requested to submit to a chemical test or tests of his breath, blood, or urine, may not select the test or tests to be administered.
+      
+INSTRUCTION NO. _______ 
+The Court’s Affirmative Findings Concerning the Intoxilyzer Machine 
+      As is permitted under Utah law, the Court has received into evidence an affidavit concerning the maintenance of the intoxilyzer machine used in this case to determine the defendant’s breath alcohol level. Based upon the affidavit, the Court has made the following affirmative findings concerning the intoxilyzer machine:  
+1. The calibration and testing of the intoxilyzer machine were performed in accordance with the standards established by the commissioner of public safety;  
+2. The affidavit was prepared contemporaneously with the conditions and events stated 
+therein;  
+3. The affidavit was prepared in the regular course of a public officer’s duties; and  
+4. The source of information for which made and the method and circumstances of its preparation were such as to indicate its trustworthiness.  
+      Having made the foregoing findings, the affidavit establishes a rebuttable presumption that the intoxilyzer machine used in this case to test the defendant’s breath alcohol content was functioning properly. 
+INSTRUCTION NO. _______  
+Field Sobriety Tests 
+      In this case, you have heard evidence that the defendant was asked to perform certain roadside tests commonly referred to as field sobriety tests.  It is up to you to decide if those tests give any reliable indication of whether the defendant’s [PG19]capacity to safely operate a motor vehicle was diminished, or, whether such tests have any rational connection to operating a motor vehicle safely.  In other words, it is up to you to determine the weight to give to the defendant’s performance on the field sobriety tests.  
+      In judging the defendant’s performance on the roadside tests, you may consider the circumstances under which they were given, the defendant’s physical condition, the defendant’s state of mind, and any other relevant factors. 
+[PG20]
+INSTRUCTION NO. _______ 
+Driving Under the Influence 
+      PETER GOLUB is charged in Count 1 with Driving Under the Influence of Alcohol and/or Drugs (DUI) on or about September 6, 2023.  You cannot convict him of this offense unless, based on the evidence, you find beyond a reasonable doubt each of the following elements: 
+1. PETER GOLUB 
+2. Operated a vehicle or was in actual physical control of a vehicle;  
+3. When either:  
+a. He had sufficient alcohol in his body that a subsequent chemical test showed that the actor had a blood or breath alcohol concentration [PG21]of 0.05 grams or greater at the time of the test; 
+b. He was under the influence of alcohol, any drug, or the combined influence of alcohol and any drug to a degree that rendered him incapable of safely operating a vehicle, or [PG22]
+c. He had a blood [PG23]or breath alcohol concentration of 0.05 grams or greater at the time of operation or actual physical control.  
+      If you believe the evidence establishes all the elements beyond a reasonable doubt, it is your duty to find the defendant GUILTY of Count 1.  On the other hand, if you believe the evidence does not establish any one or more of the elements, then you must find the defendant 
+NOT GUILTY of Count 1.  
+      
+Failure to Signal 
+ 	PETER GOLUB is charged in Count 2 with Failure to Signal [PG24]on or about September 6, 2023.  You cannot convict him of this offense unless, based on the evidence, you find beyond a reasonable doubt each of the following elements: 
+1. PETER GOLUB 
+2. Changed lanes on a roadway; and 
+3. Did not signal intent with hand and arm signals or signal lamps for at least the last two seconds preceding the beginning of movement. 
+      After you carefully consider all the evidence in this case, if you are convinced that each and every element has been proven beyond a reasonable doubt, then you must find the defendant GUILTY of Count 2.  On the other hand, if you are not convinced that each and every element has been proven beyond a reasonable doubt, then you must find the defendant NOT GUILTY of Count 
+2.  
+ 	 
+Definition of “Roadway” 
+ 	You are instructed that “roadway” means that portion of highway improved, designed, or ordinarily used for vehicular travel.  
+ 	 
+
+Definition of “Highway” 
+ You are instructed that “highway” means the entire width between property lines of every way or place of any nature when any part of it is open to the use of the public as a matter of right for vehicular travel. [PG25]
+      
+INSTRUCTION NO. _______ 
+Strict Liability Offenses 
+      You are instructed that the offenses of Driving Under the Influence of Alcohol and Failure to Signal with which the defendant is charged with committing are strict liability offenses.  That is, if you find beyond a reasonable doubt that the elements of the offenses as previously instructed upon have been proved, then the defendant may be found guilty of committing that offense without regard to his intent, knowledge or recklessness.
+
+INSTRUCTION NO. ___ 
+Do Not Consider Punishment 
+      In making your decision, do not consider what punishment could result from a verdict of guilty.  Your duty is to decide if the defendant is guilty beyond a reasonable doubt.  Punishment is not relevant to whether the defendant is guilty or not guilty. [PG26]
+
+INSTRUCTION NO. ___ 
+Jury Deliberations 
+      In the jury room, discuss the evidence and speak your minds with each other.  Open discussion should help you reach a unanimous agreement on a verdict.  Listen carefully and respectfully to each other’s views and keep an open mind about what others have to say.  I recommend that you not commit yourselves to a particular verdict before discussing all the evidence. 
+      Try to reach unanimous agreement, but only if you can do so honestly and in good conscience.  If there is a difference of opinion about the evidence or the verdict, do not hesitate to change your mind if you become convinced that your position is wrong.  On the other hand, do not give up your honestly held views about the evidence simply to agree on a verdict, to give in to pressure from other jurors, or just to get the case over with.  In the end, your vote must be your own. 
+      Because this is a criminal case, every single juror must agree with the verdict before the defendant can be found “guilty” or “not guilty.”  In reaching your verdict you may not use methods of chance, such as drawing straws or flipping a coin.  Rather, the verdict must reflect your individual, careful, and conscientious judgment as to whether the evidence presented by the prosecutor proved each charge beyond a reasonable doubt. 
+INSTRUCTION NO. ____ 
+Multiple Charges 
+ 	The defendant has been charged with more than one crime.  It is your duty to consider each charge separately.  For each crime charged, consider all of the evidence related to that charge.  Decide whether the prosecution has presented proof beyond a reasonable doubt that the defendant is guilty of that particular crime.  Your verdict on one charge does not determine your verdict on any other charge. 
+ 
+ 
+
+INSTRUCTION NO. ____ 
+Usual and Ordinary Meanings Instruction 
+      Unless these instructions give a definition, you should give all words their usual and ordinary meanings.
+
+INSTRUCTION NO. ____ 
+Items Not Admitted into Evidence [PG27]
+      Transcripts, police reports, or other written, audio, or visual materials may have been referenced during the trial but not admitted as exhibits.  It is common during deliberations for jurors to ask to review these materials or to have transcripts of what witnesses said during trial.  These materials, other than what may have been admitted as exhibits, may not be requested as part of your deliberations. 
+ 	 
+
+INSTRUCTION NO. _____ 
+Law Enforcement Officer’s Testimony 
+      You have heard the testimony of a law enforcement officer.  The fact that a witness is employed in law enforcement does not mean that their testimony deserves more or less consideration than that of any other witness.  It is up to you to give any witness’s testimony whatever weight you think it deserves. 
+ 	 
+
+INSTRUCTION NO. ____ 
+Jury Unanimity and Jury Deliberations 
+      Because this is a criminal case, every single juror must agree with the verdict before the defendant can be found “guilty” or “not guilty.”  That is, you must be unanimous in your verdict for each count charged. 
+      To help you in reaching unanimous agreement, I recommend that you not commit yourselves to a particular verdict before discussing all the evidence.  In addition, you may not use methods of chance, such as drawing straws or flipping a coin.  Rather, in the jury room, consider the evidence and speak your minds with each other.  Listen carefully and respectfully to each other’s views and keep an open mind about what others have to say.  If there is a difference of opinion about the evidence or the verdict, do not hesitate to change your mind if you become convinced that your position is wrong.  On the other hand, do not give up your honestly held views about the evidence simply to agree on a verdict, to give in to pressure from other jurors, or just to get the case over with. 
+      In the end, your vote must be your own.  A unanimous verdict must reflect the individual, careful, and conscientious judgment of each juror as to whether the defendant is guilty or not guilty. 
+      Among the first things you should do when you go to the jury room to deliberate is to appoint someone to serve as the jury foreperson.  The foreperson should not dominate the jury’s discussion but rather should facilitate the discussion of the evidence and make sure that all members of the jury get the chance to speak.  The foreperson’s opinions should be given the same weight as those of other members of the jury.  Once the jury has reached a verdict, the foreperson is responsible for filling out and signing each verdict form on behalf of the entire jury. 
+      You will receive a General Verdict Form.  For each count charged, the General Verdict Form has one blank for “guilty,” and one blank for “not guilty” of the crime.  The foreperson will fill in the appropriate blanks to reflect the jury’s unanimous decision. In filling out the form, the foreperson needs to make sure that only one blank is marked for each count on the General Verdict 
+Form. 
+ 	 
+
+INSTRUCTION NO. ___ 
+Foreperson Selection and Duties 
+      Among the first things you should do when you go to the jury room to deliberate is to appoint someone to serve as the jury foreperson.  The foreperson should not dominate the jury’s discussion but rather should facilitate the discussion of the evidence and make sure that all members of the jury get the chance to speak.  The foreperson’s opinions should be given the same weight as those of other members of the jury.  Once the jury has reached a verdict, the foreperson is responsible for filling out and signing the verdict form(s) on behalf of the entire jury. 
+      For each offense, the verdict form will have two blanks—one for “guilty” and the other for “not guilty.”  The foreperson will fill in the appropriate blank to reflect the jury’s unanimous decision.  In filling out the form, the foreperson needs to make sure that only one blank is marked 
+for each charge. 	 
+
+______________________________________________________________________________ 
+IN THE THIRD JUDICIAL DISTRIC COURT 
+IN AND FOR SALT LAKE COUNTY, STATE OF UTAH 
+
+ 	We, the jurors in the above case, find the verdict against the defendant PETER GOLUB as follows: 
+Count 1:   	Driving Under the Influence 
+ 	 	Guilty ______  	 	Not Guilty ______ 
+ 
+Count 2:   	Failure to Signal 
+ 	 	Guilty ______  	 	Not Guilty ______ 
+ 
+_______________, 2025 	 	 	 	 	______________________________ 
+DATED 	 	 	 	 	 	 	FOREPERSON 
+ 
+INSTRUCTION NO. ____ 
+Bifurcation Instruction 
+      Your duty as a jury is not quite complete.  Having unanimously found beyond a reasonable doubt the Defendant, PETER GOLUB, guilty of the conduct charged in Count 1, the trial will now move to a second phase. [PG28]
+      Like the initial phase, the State will present evidence first.  The defendant may elect to present evidence or may choose to merely cross-examine the evidence.  The State may elect to rebut any evidence presented by the defendant.  Finally, the parties may present closing arguments, after which you will be asked to consider the case for a final verdict.  All of the instructions of law that I have given you remain in effect.  Importantly, while the defendant has been found guilty of some or all of the conduct charged, he is still presumed innocent regarding the remaining elements, and the State has the burden to prove beyond a reasonable doubt those remaining elements.  
+ 
+ 	 
+INSTRUCTION NO. ____ 
+Enhancement Instruction 
+      Count 1 is subject to enhancement if a defendant has a prior conviction for a driving under the influence offense[PG29].  Having found that the defendant, PETER GOLUB, is guilty of Count 1, you must now determine whether the defendant was convicted of at least one driving under the influence offense within ten years of the current conviction or September 6, 2023—the date of the commission of the offense upon which the current conviction is based.  For the Court to impose the enhancement, you must find the enhancement beyond a reasonable doubt.  The Court cannot impose the enhancement unless, based on all of the evidence, you find beyond a reasonable doubt that:  
+      PETER GOLUB was convicted of a driving under the influence offense [PG30]within ten years of the current conviction or the date of the commission of the offense upon which the current conviction is based, which was September 6, 2023.  
+      If, after careful consideration of all of the evidence in this case, you are convinced of the truth of a prior conviction beyond a reasonable doubt, then you must find the State has PROVEN that PETER GOLUB is subject to enhancement as charged in the Information.  If, on the other hand, you are not convinced beyond a reasonable doubt of a prior conviction, then you must find the State has NOT PROVEN that PETER GOLUB is subject to enhancement. 
+ 	 
+INSTRUCTION NO. ____ 
+Enhancement Instruction 
+      A “driving under the influence offense” means a conviction arising from a separate episode of driving for a violation of (1) driving under the influence or (2) for an offense committed on or after July 1, 2008, impaired driving.  
+ 	 
+
+INSTRUCTION NO. ____ 
+Definition: Conviction or Convicted 
+      “Convicted” means a conviction by a plea or verdict of a crime or offense.  “Convicted” includes a plea of guilty and a plea of no contest. 
+ 	 
+
+ 
+ 
+IN THE THIRD JUDICIAL DISTRICT COURT, SALT LAKE DEPARTMENT 
+IN AND FOR SALT LAKE COUNTY, STATE OF UTAH 
+
+ 
+      We, the jurors in the above case, unanimously find beyond a reasonable doubt that the defendant, PETER GOLUB, was convicted of a driving under the influence offense within ten years of the current conviction or September 6, 2023.  
+	 	 PROVEN 
+ 
+ 
+	 	NOT PROVEN 
+ 
+ 
+_______________, 2025 	 	 	 	 	______________________________ 
+DATED 	 	 	 	 	 	 	FOREPERSON 
+ 
+ 
+CERTIFICATE OF DELIVERY 
+ 	I hereby certify that a true and correct copy of the foregoing was sent on April 4, 2025 
+via electronic mail to pro se defendant Peter Golub. 
+ 
+ 
+/s Steven Fredley        	 Steven Fredley 
+Deputy District Attorney 
+ 
+ 
+ 
+ 
+         [PG1]We gotta figure make a list of all the “I” and then in court ask who the “I” refers to? OMG if by some miracle the Prosecutor says he wrote it, maybe we can have the whole thing declared a mistrial? Or even dismissed. Meeeep! 
+         [PG2]Your natural sense of fairness, base it on the universal golden rule—do onto others as you would have done onto yourself—everyone wants to be treated fairly and with compassion. And NOT to be bullied. Trooper Ernstsen and his brother literally bullied the defendant and his brother back in high school. Though he claims not to remember. He’s a jock who became a fat bald cop—like the Platonic ideal of a bully. 
+[PG3]If a defendant is representing himself pro se, is what he says count as evidence. See Testimony 2 Transcript. Mr. Dunkelman objects calling “supposition” over and over. Make sure to avoid this next time.  
+         [PG4]Who’s the “I”? 
+         [PG5]Who’s “I”?
+         [PG6]This sounds confusing. Is additional evidence presented after the evidence has been presented? 
+         [PG7]Consider the State’s threats to the Defense benefit? 
+         [PG8]What’s a Blackberry? 
+         [PG9]IMPORTANT, this seems crazy, but perhaps there’s a way to get a mistrial if someone posts something to MySpace with their Blackberry.
+       
+       Also, why is the State so threatened by information? Why can’t jurors do their own research, which is how any sane person makes a decision about the brands of toilet paper and toothpaste let alone falsely convicting someone of a crime that will damage them for the rest of their life. 
+         [PG10]You mean the hundreds of years ago when people lived in a literal slave state, women couldn’t vote or even have bank accounts, and children were kept underground turning the big wheels? Seems like this system is really overdue for a reboot. Laughable to say the system was “fair” hundreds of years ago. 
+         [PG11]Mine? 
+         [PG12]Trooper was very biased but the jury is order to be sociopaths and have no sympathy? 
+         [PG13]This is BS. If the judge represents the State, how can she be neutral? How can she be neutral if she’s writing the Jury instructions for the prosecution? 
+         [PG14] 
+         [PG15]Why insist on common sense, when jurors can’t do the most common sense thing of all—doing their own research?
+         [PG16]Highlight inconsistencies. 
+         [PG17]Hammer this home in Defense Jury Instructions! 
+         [PG18]Defendant must be made aware of this. Why didn’t Trooper Ernstsen inform Mr. Golub of this law? If a driver refuses to take the test, it is a crime with serious repercussions: loss of driver’s license, large fines, even jail time. EITHER the defendant did not refuse to take the test OR Trooper Ernstsen failed to record this vital piece of evidence and charge Mr. Golub with the crime. 
+         [PG19]How can jurors decide whether the tests were reliable when they first legally necessary test the Preliminary Breath Test was never officially, legally, procedurally offered or taken. 
+         [PG20]Fatigue. Show work schedule. 
+         [PG21]Blood Alcohol Level is not the same as Breath Alcohol Level. 
+         [PG22]Video evidence clearly shows that Mr. Golub was capable of safely operating his car. 
+         [PG23]Again, Blood Alcohol Content is not the same as Breath Alcohol Content, which can be affected by something as tangential as mouthwash and even using disinfectant wipes. 
+         [PG24]IMPORTANT! This has to be Count 1, since both logically and chronologically, this alleged failure to signal is what caused the illegal stop in the first place.  
+         [PG25]There might be some weird technicality here that the Defense could use. 
+         [PG26]How is that legal to say nothing of sane? It seems like the whole façade of justice really breaks down if people are supposed to make their decisions without doing research, discussing the case, or considering the consequences and outcomes. If a person were to be hung for stealing a candy bar, seems like the outcome would be a pretty important piece of evidence. 
+         [PG27]Hearing 1 transcripts are in the record. Can Hearing 2 transcripts be added? 
+         [PG28]WAIT WHAT? They’re just assuming Mr. Golub will be guilty? Should they at least pretend that this is a real and fair trial and not a kangaroo court, and say something like, “Once you’ve deliberated… if you find the defendant not-guilty… x, y, z… if you find him guilty… x, y, z.”
+       
+       WTF How are they being asked to rule on the DUI before ruling on the “failure to signal”?!!!
+         [PG29]Mr. Golub does not have a previous DUI, but a wrongful conviction of “reckless driving.”
+         [PG30]Nooo! Can they just make things up? 
+
+      
+ 
+INSTRUCTION NO. ___ 
+      
+      State’s Jury instructions 2
+      
+      
+      State’s Jury Instructions 2
+      
+      
+
+      
+ 
+INSTRUCTION NO. ___ 
+      
+ 
+INSTRUCTION NO. ___ 
+      
+ 
+INSTRUCTION NO. ___ 
+      
+
+      
+ 
+INSTRUCTION NO. ___ 
+      
+
+      
+ 
+INSTRUCTION NO. ___ 
+      
+ 
+INSTRUCTION NO. ___ 
+      
+ 
+INSTRUCTION NO. ___ 
+      
+ 
+INSTRUCTION NO. ___ 
+      
+ 
+INSTRUCTION NO. ___ 
+      
+
+      
+
+      
+
+      
+
+      
+ 
+INSTRUCTION NO. ___ 
+      
+ 
+INSTRUCTION NO. ___ 
+      
+ 
+INSTRUCTION NO. ___ 
+      
+
+      
+
+      
+
+      
