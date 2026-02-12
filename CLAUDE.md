@@ -182,6 +182,198 @@ These are the vulnerabilities in the defense. Always account for them:
 5. **HGN showed 6/6 clues.** Subjective, unverifiable on video. Contrast with objective One-Leg Stand (0/4 clues).
 6. **Officer's experience.** Turn it against him: an experienced officer should have recognized the 144-second impossibility.
 
+## Defense Argument Strength Assessment
+
+Adapted from [Anthropic's legal risk assessment framework](https://github.com/anthropics/knowledge-work-plugins/blob/main/legal/skills/legal-risk-assessment/SKILL.md). Use this matrix when evaluating any defense argument, piece of evidence, or trial issue.
+
+### Strength x Jury Impact Matrix
+
+**Argument Strength (how solid is the legal/factual basis):**
+
+| Level | Label | Description |
+|---|---|---|
+| 1 | **Weak** | Legally or factually thin; State has strong counter; jury unlikely to credit |
+| 2 | **Marginal** | Some support but vulnerable to rebuttal; needs careful framing |
+| 3 | **Moderate** | Reasonable support in evidence and law; jury could go either way |
+| 4 | **Strong** | Well-supported by evidence and authority; State's counter is weak |
+| 5 | **Overwhelming** | Undeniable on the record; video/documentary proof; no credible counter |
+
+**Jury Impact (how much does it move the reasonable-doubt needle):**
+
+| Level | Label | Description |
+|---|---|---|
+| 1 | **Negligible** | Technical point; jury won't care or remember |
+| 2 | **Minor** | Supports the defense narrative but not decisive |
+| 3 | **Meaningful** | Creates real doubt on a specific element the State must prove |
+| 4 | **Significant** | Directly undermines a critical piece of State's evidence or credibility |
+| 5 | **Case-Defining** | Could single-handedly create reasonable doubt |
+
+### Score = Strength x Impact
+
+| Score | Classification | Action |
+|---|---|---|
+| 1-4 | **LOW** | Use only if time permits; don't spend jury attention on this |
+| 5-9 | **MEDIUM** | Include in case presentation; pair with stronger arguments |
+| 10-15 | **HIGH** | Feature prominently; build cross-examination and closing around this |
+| 16-25 | **CRITICAL** | Lead with this; this is a pillar of the defense |
+
+### Current Argument Ratings
+
+| Argument | Strength | Impact | Score | Classification |
+|---|---|---|---|---|
+| 144-second breath test (physiological impossibility) | 5 | 5 | 25 | CRITICAL |
+| Officer admitted test "improperly done" | 5 | 4 | 20 | CRITICAL |
+| Single sample (R714-500-6 requires two) | 4 | 4 | 16 | CRITICAL |
+| One-Leg Stand 0/4 clues (perfect performance) | 5 | 3 | 15 | HIGH |
+| 24x arrest rate (confirmation bias) | 4 | 3 | 12 | HIGH |
+| Officer 2 omitted from all reports | 3 | 3 | 9 | MEDIUM |
+| 80+ minutes without Miranda | 4 | 2 | 8 | MEDIUM |
+| Obstructed view of traffic violation | 3 | 2 | 6 | MEDIUM |
+| 10 blocks of normal driving | 3 | 2 | 6 | MEDIUM |
+| Selective documentation (HGN vs. OLS) | 3 | 2 | 6 | MEDIUM |
+
+When analyzing any new argument or evidence, apply this matrix and state the score.
+
+## Evidence Classification (GREEN / YELLOW / RED)
+
+Adapted from [Anthropic's contract review deviation framework](https://github.com/anthropics/knowledge-work-plugins/blob/main/legal/skills/contract-review/SKILL.md). Use this to triage every piece of evidence.
+
+### GREEN — Favors Defense
+Evidence that supports the defense narrative. Present confidently.
+- Video of 144-second test, One-Leg Stand performance, normal driving
+- Officer's own admission of improper test administration
+- GRAMA data on 24x arrest rate
+- Miranda timeline on video
+
+### YELLOW — Mixed / Handle With Care
+Evidence that cuts both ways or requires careful framing.
+- Officer 2 (unknown — could help or hurt)
+- FST results overall (some clues documented, but administration was flawed)
+- Defendant's statements (may not be incriminating but opens doors)
+- Officer's experience (State says skill; defense says should-have-known)
+
+### RED — Favors State (Mitigate)
+Evidence that hurts the defense. Do not ignore — address head-on with mitigation.
+
+| RED Evidence | Mitigation Strategy |
+|---|---|
+| BAC 0.104 (above limit) | Attack test validity, not the number; 144-second anomaly makes result unreliable |
+| Machine certification records | Certification doesn't validate a specific test; machine may malfunction despite calibration |
+| Prior reckless driving conviction | Not a DUI; request bifurcation; Rule 404(b) objection |
+| HGN 6/6 clues | Subjective, unverifiable on video; contrast with objective OLS 0/4 |
+| Suppression motions denied | Cannot relitigate; preserve for appeal; redirect arguments to jury |
+
+## Trial Argument Priority Tiers
+
+Adapted from [Anthropic's negotiation priority framework](https://github.com/anthropics/knowledge-work-plugins/blob/main/legal/skills/contract-review/SKILL.md). Organize trial presentation by these tiers.
+
+### Tier 1 — Must Make (Reasonable Doubt Pillars)
+Arguments the jury MUST hear. Spend the majority of cross-examination and closing on these.
+- 144-second breath test is physiologically impossible — the test is invalid
+- Officer admitted the test was "improperly done"
+- Only one sample taken; R714-500-6 requires two
+- 0.104 BAC came from a corrupted, single-sample test
+
+### Tier 2 — Should Make (Credibility Destroyers)
+Arguments that reinforce Tier 1 by attacking the officer's credibility and methods.
+- 24x arrest rate demonstrates confirmation bias (State v. Perea)
+- Selective documentation: 6/6 HGN (subjective) vs. 0/4 OLS (objective)
+- Officer 2 omitted from all reports despite 3.5+ hours on scene
+- One-Leg Stand: perfect performance contradicts "impaired" conclusion
+
+### Tier 3 — Can Make (Record Preservation / Reinforcement)
+Arguments that strengthen the narrative or preserve appellate issues. Use if time permits; concede these to protect Tier 1 and 2 time.
+- Miranda timeline (80+ minutes unwarned) — suppression denied, but shows procedural pattern
+- Obstructed view of traffic violation (100-125 feet, obstructed)
+- 10 blocks of normal driving after the stop
+- "Affirmative findings" jury instruction (State v. Bradley objection — preserve for appeal)
+
+**Trial strategy**: Lead with Tier 1 in opening, cross-examination, and closing. Use Tier 2 to build the confirmation-bias narrative. Invoke Tier 3 for record preservation and to reinforce the pattern of procedural disregard.
+
+## Court Hearing Briefing Template
+
+Adapted from [Anthropic's meeting briefing skill](https://github.com/anthropics/knowledge-work-plugins/blob/main/legal/skills/meeting-briefing/SKILL.md). Use this template when preparing for any court appearance.
+
+When asked to prepare a court hearing brief, produce this structure:
+
+```markdown
+## Hearing Brief
+
+### Hearing Details
+- **Hearing**: [type — pretrial, motion hearing, trial day, etc.]
+- **Date/Time**: [date and time]
+- **Location**: [courtroom]
+- **Judge**: Elizabeth A. Hruby-Mills
+- **Prosecutor**: Joseph Johnson
+- **Your Role**: Pro se defendant
+
+### Participants
+| Name | Role | Key Concerns | Notes |
+|---|---|---|---|
+| [name] | [role] | [what they care about] | [relevant context] |
+
+### Issues to Raise (by priority)
+1. [Issue] — [relief sought] — [supporting authority]
+2. [Issue] — [relief sought] — [supporting authority]
+
+### Scripts / Talking Points
+[Prepared statements for each issue, with legal citations]
+
+### Anticipated State Arguments & Rebuttals
+| State Will Argue | Defense Rebuttal |
+|---|---|
+| [argument] | [rebuttal with citation] |
+
+### Objections to Make (Record Preservation)
+- [Objection] — [legal basis] — [when to raise]
+
+### Documents to Bring
+- [Document] — [purpose] — [file location in repository]
+
+### Decisions Needed
+- [Decision] — [options and recommendation]
+
+### Red Lines / Non-Negotiables
+[Positions that cannot be conceded at this hearing]
+
+### Action Items After Hearing
+| Action | Deadline | Priority |
+|---|---|---|
+| [task] | [date] | [H/M/L] |
+
+### Preparation Gaps
+[Information still needed; questions to resolve before hearing]
+```
+
+## Cross-Examination Framework
+
+When preparing cross-examination questions, follow this structure for each topic area:
+
+### Question Design Rules
+1. **One fact per question.** Never ask a compound question.
+2. **Leading questions only.** Cross is for statements the witness confirms, not open-ended discovery.
+3. **Know the answer.** Only ask questions where the answer is locked in by video, documents, or prior testimony.
+4. **Build to the point.** Sequence questions so the jury sees where you're going before you get there.
+5. **Stop when you've won.** Do not ask "one more question" after getting the admission you need.
+
+### Cross-Examination Block Template
+
+```markdown
+### Topic: [e.g., 144-Second Breath Test]
+**Goal**: [What admission or point are you building toward]
+**Source**: [Video timestamp, transcript page, document that locks in the answer]
+
+**Questions**:
+1. [Leading question establishing foundation]
+2. [Leading question narrowing the point]
+3. [Leading question reaching the admission]
+
+**If witness resists**: [Impeachment source — prior testimony, video, document]
+**Pivot if needed**: [Alternative line if this line is shut down]
+```
+
 ## Disclaimer
 
 This repository contains materials for legal research and trial preparation assistance. Claude provides legal information and analysis, not legal advice. All filings, courtroom arguments, and strategic decisions should be reviewed by a licensed attorney. This is especially important given the defendant's pro se status.
+
+Frameworks in this file are adapted in part from [Anthropic's knowledge-work-plugins/legal](https://github.com/anthropics/knowledge-work-plugins/blob/main/legal/README.md), modified for criminal defense trial work.
