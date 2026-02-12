@@ -1,4 +1,4 @@
-# IN THE JUSTICE COURT OF [COUNTY] COUNTY, STATE OF UTAH
+# IN THE THIRD DISTRICT COURT, SALT LAKE COUNTY, STATE OF UTAH
 
 **STATE OF UTAH,**
 Plaintiff,
@@ -9,41 +9,98 @@ v.
 Defendant.
 
 **Case No.** 235900706
-**Judge:** [Judge Name]
+**Judge:** Elizabeth A. Hruby-Mills
 
 ---
 
-### MOTION TO COMPEL DISCLOSURE OF WITNESS IDENTITY ("OFFICER 2")
+## DEFENDANT'S MOTION TO COMPEL PRODUCTION OF TROOPER VINCENT CARPENTER'S BODYCAM FOOTAGE AND RECORDS
 
-**COMES NOW** the Defendant, Peter Golub, representing himself *pro se*, and moves this Court to order the State to disclose the identity, badge number, and agency affiliation of the second law enforcement officer present during the traffic stop and subsequent arrest of the Defendant on [Date of Arrest].
+**COMES NOW** the Defendant, Peter Golub, representing himself *pro se*, and respectfully moves this Court to order the State to produce the bodycam footage, dashcam footage, and any reports or notes created by Utah Highway Patrol Trooper Vincent Carpenter in connection with the arrest of the Defendant on September 6, 2023.
+
+---
 
 ### MEMORANDUM OF POINTS AND AUTHORITIES
 
-**1. FACTUAL BACKGROUND**
-During the traffic stop that gave rise to this action, two uniformed officers were present at the scene.
-*   **Officer 1:** Corporal Ernstsen (Identified in reports).
-*   **Officer 2:** An unidentified male officer who was present, observed the interaction, and potentially participated in the investigation.
+### 1. FACTUAL BACKGROUND
 
-The official police report filed by Cpl. Ernstsen **omits any mention** of this second officer. This officer does not appear in the State's witness list, nor have any body-cam footage or notes from this officer been provided in discovery.
+On September 6, 2023, the Defendant was stopped and arrested for DUI by Corporal Brock Ernstsen of the Utah Highway Patrol. A second UHP officer was present at the scene for over three and a half hours. This second officer participated in the arrest, conducted the vehicle inventory, interacted with the tow truck driver, and was captured on both dashcam and bodycam video throughout the encounter.
 
-**2. LEGAL ARGUMENT**
-**A. Violation of Discovery Rules (Rule 16)**
-Under Utah R. Crim. P. 16(a), the prosecutor must disclose "the names and addresses of all persons whom the prosecutor intends to call as witnesses." Furthermore, the State has a continuing duty to disclose evidence that is "exculpatory or impeachment evidence" under *Brady v. Maryland*.
+Despite this officer's extensive involvement, Corporal Ernstsen's police report **omits any mention** of a second officer. The officer does not appear in the State's witness list. The officer's name was not disclosed in response to multiple defense discovery requests, including:
 
-The presence of a second officer who is *scrubbed* from the official narrative suggests potential suppression of evidence. This officer is a material witness to the Defendant's sobriety, conduct, and the administration of the field sobriety tests.
+- A 2024 email to former prosecutor Mr. Fredley specifically requesting the identity of the second officer
+- The Defense's January 8, 2026 email to the Court and Prosecutor Johnson requesting Officer 2's identification as a Brady/Giglio obligation
+- Verbal requests at the January 12 and January 16, 2026 pretrial conferences
 
-**B. Materiality to Defense**
-The Defendant cannot adequately prepare a defense without the ability to interview or subpoena the second eyewitness to the event. If Officer 2 observed the Defendant acting sober, or observed procedural errors by Cpl. Ernstsen, that testimony is exculpatory. Hiding his identity denies the Defendant his Sixth Amendment right to confront witnesses and compel testimony.
+**The Defense has now independently identified this officer.** The Vehicle Impound Report filed in the State's own case file (Case No. 162300485) bears the signature of **Trooper Vincent Carpenter** of the Utah Highway Patrol (ORI: UTUHP1300). The impound report, dated September 7, 2023 at 00:00:04, documents the removal of the Defendant's vehicle from 2600 S State Street, South Salt Lake — the location of the arrest. Trooper Carpenter's name, agency, and case number have been in the State's possession since the date of the arrest.
 
-**3. RELIEF REQUESTED**
-The Defendant requests an Order compelling the State to:
-1.  Immediately provide the full name, badge number, and agency of "Officer 2."
-2.  Produce any body-cam footage, dash-cam footage, or written notes created by Officer 2.
-3.  If no such records exist, provide a written explanation for why a present law enforcement officer failed to document a criminal investigation.
+The State's failure to disclose this officer's identity — despite his name appearing in their own file — raises serious concerns about the completeness of the discovery provided in this case.
 
-**DATED** this 6th day of February, 2026.
+Furthermore, the Defense has obtained approximately 3.5 hours of Trooper Carpenter's bodycam footage. This footage was inadvertently included when the State provided an Evidence.com link containing approximately 8 hours of video from the September 6, 2023 arrest. The State provided this footage without ever acknowledging Trooper Carpenter's involvement or identifying him as a participant in the arrest. The Defense identified Trooper Carpenter independently — first from the footage itself, and then by name from the Vehicle Impound Report.
+
+The Defense intends to use brief clips from Trooper Carpenter's bodycam footage at trial. This motion seeks confirmation of his identity, production of any written reports or notes he created, and a record of the State's failure to comply with its discovery obligations.
+
+### 2. LEGAL ARGUMENT
+
+**A. Brady v. Maryland, 373 U.S. 83 (1963)**
+
+The prosecution has a constitutional duty to disclose evidence favorable to the defense. This duty extends to evidence that is exculpatory or that could be used for impeachment. *Brady v. Maryland*, 373 U.S. 83, 87 (1963); *Giglio v. United States*, 405 U.S. 150 (1972).
+
+Trooper Carpenter's bodycam footage is both exculpatory and impeachment material:
+
+- **Exculpatory**: Trooper Carpenter observed the Defendant for over three hours. His bodycam shows the Defendant's behavior, balance, speech, and demeanor from a perspective not captured by Ernstsen's camera.
+
+- **Impeachment**: Corporal Ernstsen's report omits Trooper Carpenter entirely. Carpenter's footage provides an independent record of the encounter that the jury is entitled to evaluate against Ernstsen's account.
+
+The State's conduct in this case illustrates precisely the concern underlying *Brady*. The State possessed Carpenter's footage, his name was on the impound report in their file, and yet they never disclosed his identity or acknowledged his involvement — even when directly asked. The suppression of evidence favorable to the accused violates due process "irrespective of the good faith or bad faith of the prosecution." *Brady*, 373 U.S. at 87.
+
+**B. Utah Rule of Criminal Procedure 16(a)**
+
+Rule 16(a) requires the prosecution to disclose all evidence that "tends to negate the guilt of the accused, mitigate the guilt of the defendant, or mitigate the degree of the offense." The bodycam footage of a second officer who witnessed the entire encounter falls squarely within this obligation.
+
+**C. The Omission Itself Is Impeachment Material**
+
+The fact that Trooper Carpenter was systematically omitted from all police reports — while his name appears on the Vehicle Impound Report in the State's own file — is itself relevant to Corporal Ernstsen's credibility. A jury is entitled to evaluate why an arresting officer would omit a fellow officer's three-and-a-half-hour involvement from every report. This pattern of selective documentation is relevant to the Defense's confirmation bias argument under *State v. Perea*, 2013 UT 68.
+
+### 3. RELIEF REQUESTED
+
+The Defendant respectfully requests that this Court enter an Order compelling the State to:
+
+1. **Confirm on the record** whether UHP Trooper Vincent Carpenter is the second officer present during the September 6, 2023 arrest of the Defendant.
+
+2. **Produce** any reports, notes, or written records created by Trooper Carpenter in connection with Case No. 162300485 / Case No. 235900706. While the Defense has obtained Trooper Carpenter's bodycam footage (inadvertently included in the State's Evidence.com production), any written documentation he created has not been disclosed.
+
+3. **Produce** these materials no later than **March 17, 2026** (fourteen days before the March 31 trial date).
+
+4. **Acknowledge** on the record why Trooper Carpenter was omitted from all police reports and never identified in response to the Defense's repeated discovery requests, despite his name appearing on the Vehicle Impound Report in the State's own file.
+
+5. In the alternative, if the State claims no written records exist, the Defendant requests a written confirmation of that fact and an instruction permitting the Defense to argue at trial that Trooper Carpenter's omission from all reports reflects a pattern of selective documentation.
+
+---
+
+**DATED** this _____ day of February, 2026.
 
 ________________________
 Peter Golub
 Defendant, *Pro Se*
+3921 S 2000 E
+Salt Lake City, UT 84124
+(801) 618-7609
+peter.golub@gmail.com
 
+---
+
+### CERTIFICATE OF SERVICE
+
+I hereby certify that on the _____ day of February, 2026, I served a true and correct copy of this Motion upon:
+
+Joseph Johnson
+Deputy District Attorney
+Salt Lake County District Attorney's Office
+jojohnson@saltlakecounty.gov
+
+☐ Via email
+☐ Via hand delivery
+☐ Via U.S. Mail
+
+________________________
+Peter Golub
