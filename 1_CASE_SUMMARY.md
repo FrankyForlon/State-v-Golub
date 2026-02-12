@@ -32,11 +32,15 @@
 
 **October 29, 2025:** State moved to strike motions as untimely; Defense withdrew motions; Judge refused to hear voir dire/instruction arguments. **All motions FAILED** - case proceeding to jury trial.
 
+**February 2026 Update:**
+- **Pretrial:** February 17, 2026
+- **Trial:** March 31, 2026 (earliest)
+
 **January 9, 2026:** Jury instructions & voir dire due (5 PM).
 
 **January 12, 2026:** FINAL PRETRIAL (1:00 PM, W47).
 
-**January 22-23, 2026:** TRIAL (Voir Dire 8:30 AM Day 1; Trial Day 2 at 9:00 AM).
+**January 22-23, 2026:** TRIAL (Voir Dire 8:30 AM Day 1; Trial Day 2 at 9:00 AM) - **POSTPONED**.
 
 ## MOTIONS FILED AND OUTCOMES
 

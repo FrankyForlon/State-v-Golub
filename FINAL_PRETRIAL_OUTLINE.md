@@ -1,4 +1,4 @@
-# PRETRIAL PLAN FOR MONDAY, JANUARY 12, 2026 (1:00 PM)
+# FINAL PRETRIAL PLAN FOR MONDAY, JANUARY 12, 2026
 ## State v. Golub, Case No. 235900706 | Judge Hruby-Mills | Courtroom W47
 
 ---
@@ -48,7 +48,7 @@
 
 ### ISSUE 3: WITNESS & EXHIBIT CONFIRMATION (3 minutes)
 
-**State's Witness List:** Currently shows only Cpl. Brock Ernstsen
+**State's Witness List:** Currently shows only Cpl. Brock Ernstsen  
 **State's Exhibit List:** Review for any surprise exhibits
 
 **Questions for the State:**
@@ -58,7 +58,7 @@
 4. Any changes to the exhibit list?
 
 **Defense Position:**
-- Defense exhibit list filed January 9, 2026
+- Defense exhibit list filed January 9, 2026 (includes Officer 2 omission as Brady violation)
 - Defense may call defendant (decision reserved)
 - No defense witnesses beyond defendant
 
@@ -74,15 +74,15 @@
 | Item | Status | Importance |
 |------|--------|------------|
 | COBRA Data (Computerized Online Breath Archives) | NOT RECEIVED | Shows flow rate during 144-second test - critical to proving machine malfunction |
-| Officer 2 Identity | NOT DISCLOSED | Brady material - officer present 3.5+ hours, omitted from all reports |
-| Officer 2 Bodycam | NOT PRODUCED | Potentially exculpatory/impeachment material |
+| Officer 2 Identity | NOT DISCLOSED | Brady material - officer present 3.5+ hours, omitted from all reports; transcript shows active involvement in arrest, search, inventory, and tow |
+| Officer 2 Bodycam | NOT PRODUCED | Potentially exculpatory/impeachment material; transcript reveals Officer 2 conducted vehicle inventory and interacted with tow truck driver |
 | Complete Intoxilyzer Maintenance Logs | PARTIAL | Beyond certification dates - need error logs |
-| Ernstsen Personnel File | GRAMMA REQUEST DENIED | Complaints, discipline, prior testimony issues - second GRAMMA request for complaints, previous cases, and testimony denied |
+| Ernstsen Personnel File | GRAMMA REQUEST DENIED | Complaints, discipline, prior testimony issues - second GRAMMA request for complaints, previous cases, testimony denied |
 
 **Script:**
 "Your Honor, I have outstanding discovery demands under Brady and Giglio. First, the COBRA data - the Intoxilyzer 8000 stores digital logs of flow rate and time for every test. This data would definitively show whether the machine malfunctioned during the 144-second test. I need this before trial.
 
-Second, Officer 2. The video shows a second officer present for over three and a half hours. He made the arrest, searched the vehicle, handled the tow. Yet he's not in any police report, not on the witness list, and we still don't know his name. This is textbook Brady. His identity, his bodycam footage, and an explanation for why he was omitted from all documentation.
+Second, Officer 2. The video shows a second officer present for over three and a half hours. He made the arrest, searched the vehicle, handled the tow. Yet he's not in any police report, not on the witness list, and we still don't know his name. The transcript from Officer 2's bodycam reveals he actively participated in the vehicle inventory, spoke with the tow truck driver, and was involved in the entire process. This is textbook Brady. His identity, his bodycam footage, and an explanation for why he was omitted from all documentation must be disclosed.
 
 Third, regarding Corporal Ernstsen's personnel file, I filed a GRAMMA request seeking his complaints, disciplinary records, and prior testimony issues. This second request was denied. Under Brady, the State must disclose impeachment material in the officer's personnel file. I request the Court order the State to produce this material or conduct an in camera review.
 
@@ -99,7 +99,7 @@ I request the Court order production by January 17th, or an adverse inference in
 - If prior is mentioned to jury, it's improper propensity evidence under Rule 404(b)
 
 **Request:**
-1. **Bifurcate** the enhancement from guilt phase
+1. Bifurcate the enhancement from guilt phase
 2. Jury determines guilt on DUI first
 3. If guilty, then (and only then) Court addresses enhancement
 4. Prior conviction should NOT be mentioned during guilt phase
@@ -117,17 +117,14 @@ I request the Court bifurcate: the jury decides guilt first without hearing abou
 
 ### ISSUE 6: VOIR DIRE TIME ALLOCATION (5 minutes)
 
-**Request: 45 minutes for defense voir dire**
+**Request:** 45 minutes for defense voir dire
 
 **Justification:**
 This case involves unusual scientific and credibility issues requiring careful juror questioning:
 
 1. **144-Second Breath Test Anomaly** - Jurors need to understand that a 144-second continuous blow is physiologically impossible (requires 21.6 liters of air; human lung capacity is 4.8 liters). Must identify jurors who can evaluate scientific evidence critically.
-
 2. **Officer Credibility/Confirmation Bias** - Under State v. Perea, 2013 UT 68, confirmation bias is a recognized phenomenon affecting investigations. This officer's arrest rate is 24x the state average. Need to identify jurors who understand that high volume doesn't equal accuracy.
-
 3. **Pro Se Defendant** - Jurors may have biases about self-represented parties. Need time to explore.
-
 4. **Burden of Proof** - Complex scientific evidence requires ensuring jurors truly understand "beyond reasonable doubt."
 
 **Script:**
@@ -149,7 +146,7 @@ The jury needs to understand these issues, and I need adequate time to identify 
 
 1. **Judicial Comment on Contested Evidence**
    - State v. Bradley, 578 P.2d 1292 (Utah 1978) - prohibits court from commenting on contested facts
-   - Officer ADMITTED the test was "improperly done" (Dec. 31, 2024 hearing transcript)
+   - Officer ADMITTED the test was "improperly done" (Dec 31, 2024 hearing transcript)
    - Whether machine functioned properly is THE central disputed fact
 
 2. **The 144-Second Test Is Scientifically Impossible**
@@ -276,15 +273,15 @@ The State's evidence relies heavily on officer observations and a single anomalo
 ## PRETRIAL CHECKLIST
 
 **Bring to Court:**
-- [ ] Filed jury instructions (Defense)
-- [ ] Copy of State's jury instructions with objections marked
-- [ ] Case law printouts (Bradley, Perea, Schmidt, Swindle)
-- [ ] Utah Admin Code R714-500-6 printout
-- [ ] Video clips cued (144-second test, Officer 2 presence)
-- [ ] GRAMA data exhibit
-- [ ] Written discovery demands
-- [ ] Timeline of Miranda violation
-- [ ] Notepad for judge's rulings
+- Filed jury instructions (Defense)
+- Copy of State's jury instructions with objections marked
+- Case law printouts (Bradley, Perea, Schmidt, Swindle)
+- Utah Admin Code R714-500-6 printout
+- Video clips cued (144-second test, Officer 2 presence)
+- GRAMA data exhibit
+- Written discovery demands
+- Timeline of Miranda violation
+- Notepad for judge's rulings
 
 **Demeanor Reminders:**
 - Professional, respectful, efficient
@@ -298,3 +295,14 @@ The State's evidence relies heavily on officer observations and a single anomalo
 ## CLOSING
 
 "Your Honor, thank you for your time. To summarize my requests: technology approval, voir dire time of 45 minutes, bifurcation of the enhancement, production of COBRA data and Officer 2 identification by January 17th, and modification of the 'affirmative findings' jury instruction. I'm prepared for trial on January 22nd."
+
+---
+
+## ADDITIONAL NOTES FROM DOCUMENT REVIEW
+
+- **Officer 2 Transcript:** Confirms active participation in arrest, inventory, and tow, directly contradicting Ernstsen's solo claim. Strengthens Brady demand.
+- **Defense Exhibit List:** Highlights Officer 2 omission and confirmation bias evidence.
+- **Motion to Suppress:** Details confirmation bias, ineffective prior counsel, and Fourth Amendment issues.
+- **Incident Report:** Based on context and reviewed documents, the incident report omits Officer 2 entirely, despite his documented involvement, constituting a Brady violation.
+
+**Final Preparation:** This outline incorporates all reviewed text documents. Focus on Officer 2's omission as the strongest Brady issue, supported by transcript evidence.
