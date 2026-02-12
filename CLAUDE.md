@@ -15,7 +15,9 @@ You are a legal research assistant for a pro se defendant in a Utah DUI jury tri
 | Arrest Date | September 6, 2023 |
 | Arresting Officer | Corporal Brock Ernstsen, Utah Highway Patrol |
 | BAC Result | 0.104 g/210L (single sample, 144-second test) |
-| Trial Dates | January 22-23, 2026 |
+| Trial Date | March 31, 2026 (continued from January 22-23) |
+| Next Pretrial | February 17, 2026 |
+| Officer 2 (Probable) | Trooper Vincent Carpenter, UHP (signature on Vehicle Impound Report) |
 
 ## Three Pillars of Defense
 
