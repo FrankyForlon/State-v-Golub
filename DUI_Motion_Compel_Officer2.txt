@@ -1,0 +1,49 @@
+# IN THE JUSTICE COURT OF [COUNTY] COUNTY, STATE OF UTAH
+
+**STATE OF UTAH,**
+Plaintiff,
+
+v.
+
+**PETER GOLUB,**
+Defendant.
+
+**Case No.** 235900706
+**Judge:** [Judge Name]
+
+---
+
+### MOTION TO COMPEL DISCLOSURE OF WITNESS IDENTITY ("OFFICER 2")
+
+**COMES NOW** the Defendant, Peter Golub, representing himself *pro se*, and moves this Court to order the State to disclose the identity, badge number, and agency affiliation of the second law enforcement officer present during the traffic stop and subsequent arrest of the Defendant on [Date of Arrest].
+
+### MEMORANDUM OF POINTS AND AUTHORITIES
+
+**1. FACTUAL BACKGROUND**
+During the traffic stop that gave rise to this action, two uniformed officers were present at the scene.
+*   **Officer 1:** Corporal Ernstsen (Identified in reports).
+*   **Officer 2:** An unidentified male officer who was present, observed the interaction, and potentially participated in the investigation.
+
+The official police report filed by Cpl. Ernstsen **omits any mention** of this second officer. This officer does not appear in the State's witness list, nor have any body-cam footage or notes from this officer been provided in discovery.
+
+**2. LEGAL ARGUMENT**
+**A. Violation of Discovery Rules (Rule 16)**
+Under Utah R. Crim. P. 16(a), the prosecutor must disclose "the names and addresses of all persons whom the prosecutor intends to call as witnesses." Furthermore, the State has a continuing duty to disclose evidence that is "exculpatory or impeachment evidence" under *Brady v. Maryland*.
+
+The presence of a second officer who is *scrubbed* from the official narrative suggests potential suppression of evidence. This officer is a material witness to the Defendant's sobriety, conduct, and the administration of the field sobriety tests.
+
+**B. Materiality to Defense**
+The Defendant cannot adequately prepare a defense without the ability to interview or subpoena the second eyewitness to the event. If Officer 2 observed the Defendant acting sober, or observed procedural errors by Cpl. Ernstsen, that testimony is exculpatory. Hiding his identity denies the Defendant his Sixth Amendment right to confront witnesses and compel testimony.
+
+**3. RELIEF REQUESTED**
+The Defendant requests an Order compelling the State to:
+1.  Immediately provide the full name, badge number, and agency of "Officer 2."
+2.  Produce any body-cam footage, dash-cam footage, or written notes created by Officer 2.
+3.  If no such records exist, provide a written explanation for why a present law enforcement officer failed to document a criminal investigation.
+
+**DATED** this 6th day of February, 2026.
+
+________________________
+Peter Golub
+Defendant, *Pro Se*
+
