@@ -1,0 +1,104 @@
+---
+title: "State v. Golub — Trial Decision Tree (March 31, 2026)"
+---
+flowchart TD
+    classDef header fill:#1a237e,color:#fff,stroke:#0d47a1,font-weight:bold,font-size:16px
+    classDef phase fill:#283593,color:#fff,stroke:#1565c0,font-weight:bold
+    classDef pillar fill:#1565c0,color:#fff,stroke:#0d47a1
+    classDef good fill:#2e7d32,color:#fff,stroke:#1b5e20
+    classDef bad fill:#c62828,color:#fff,stroke:#b71c1c
+    classDef neutral fill:#f57f17,color:#fff,stroke:#e65100
+    classDef action fill:#00695c,color:#fff,stroke:#004d40
+    classDef verdict fill:#6a1b9a,color:#fff,stroke:#4a148c,font-weight:bold
+    classDef appeal fill:#ad1457,color:#fff,stroke:#880e4f
+
+    TRIAL["JURY TRIAL\nMarch 31, 2026\nState v. Golub, No. 235900706\nJudge Hruby-Mills"]:::header
+
+    TRIAL --> VD["PHASE 1: VOIR DIRE\nJuror Selection"]:::phase
+    TRIAL --> OP["PHASE 2: OPENING\nSTATEMENTS"]:::phase
+    TRIAL --> SC["PHASE 3: STATE'S\nCASE-IN-CHIEF"]:::phase
+    TRIAL --> DC["PHASE 4: DEFENSE\nCASE"]:::phase
+    TRIAL --> CL["PHASE 5: CLOSING\nARGUMENTS"]:::phase
+    TRIAL --> JD["PHASE 6: JURY\nDELIBERATION"]:::phase
+
+    %% VOIR DIRE
+    VD --> VD1["Identify For-Cause Strikes\n• Anti-defendant bias\n• Cannot follow BRD\n• DUI trauma/bias"]:::action
+    VD --> VD2["Identify Defense-Friendly\n• Science skepticism\n• LE experience concerns\n• Innocence Project awareness"]:::good
+    VD --> VD3["Key Modules to Probe:\n• Machine reliability beliefs\n• Burden of proof understanding\n• Officer credibility standards\n• DUI/alcohol attitudes\n• Prior record bias"]:::action
+
+    %% OPENING
+    OP --> OP1["Preview 4 Pillars\nfor Reasonable Doubt"]:::pillar
+    OP1 --> OPa["Pillar 1: 144-Second\nImpossible Breath Test"]:::pillar
+    OP1 --> OPb["Pillar 2: No Video of\nTraffic Violation"]:::pillar
+    OP1 --> OPc["Pillar 3: 24x Arrest Rate\nConfirmation Bias"]:::pillar
+    OP1 --> OPd["Pillar 4: Miranda Delay\nProcedural Failures"]:::pillar
+
+    %% STATE'S CASE
+    SC --> SE["State's Evidence"]:::phase
+    SE --> SE1["Officer Ernstsen\nTestimony"]:::neutral
+    SE --> SE2["Body-Cam\nVideo"]:::neutral
+    SE --> SE3["Breath Test\nResult (.104)"]:::neutral
+    SE --> SE4["Intoxilyzer\nCertifications"]:::neutral
+    SE --> SE5["Prior Conviction\n(if not bifurcated)"]:::bad
+
+    SE1 --> CX["CROSS-EXAMINATION\nof Ernstsen"]:::phase
+    CX --> CX1["144-Sec Anomaly\n'Was the test done properly?'\nOfficer admitted 'improper'"]:::action
+    CX --> CX2["Missing Officer\n'Why is Carpenter not\nin your report?'"]:::action
+    CX --> CX3["No Video of Violation\n'10 blocks, no signal\nviolation captured?'"]:::action
+    CX --> CX4["24x Arrest Rate\n'Your DUI arrest rate\nis 24x the state average'"]:::action
+    CX --> CX5["Miranda Delay\n'80+ minutes before\nMiranda warnings?'"]:::action
+    CX --> CX6["Field Sobriety\n'0/4 clues on one-leg\nstand = perfect?'"]:::action
+
+    SE3 --> BT["BREATH TEST BATTLE"]:::phase
+    BT --> BT1{"Discovery\nProduced?"}
+    BT1 -->|"COBRA + Logs\nProduced"| BT2["Attack with data:\n• Aborted attempts\n• Error codes\n• Maintenance issues"]:::good
+    BT1 -->|"Not Produced\nor Incomplete"| BT3["Attack with absence:\n• State chose not to provide\n• Undermines reliability\n• Adverse inference"]:::good
+    BT --> BT4["Core Arguments:\n• 21.6L air vs 4.8L capacity\n• Single sample only\n• No blood draw backup\n• Protocol violations"]:::action
+
+    %% DEFENSE CASE
+    DC --> DC1{"Call Defense\nWitnesses?"}:::phase
+    DC1 -->|"No Witnesses"| DC2["Rest on cross-examination\nand reasonable doubt\nfrom State's own evidence"]:::action
+    DC1 -->|"Call Carpenter"| DC3["Risk: May bolster State\nBenefit: Inconsistencies\nwith Ernstsen"]:::neutral
+    DC1 -->|"Expert Witness\n(if pursued)"| DC4["Breath test science\nProtocol violations\nBiological impossibility"]:::good
+
+    DC --> DC5["Defense Exhibits"]:::phase
+    DC5 --> DC5a["Carpenter's Body-Cam\nClips (favorable segments)"]:::good
+    DC5 --> DC5b["GRAMA Data\n24x Arrest Rate"]:::good
+    DC5 --> DC5c["PowerPoint\nDemonstratives"]:::good
+    DC5 --> DC5d["Intoxilyzer Slip\nTimeline Analysis"]:::good
+
+    %% CLOSING
+    CL --> CL1["Tie All 4 Pillars\nto Reasonable Doubt"]:::action
+    CL1 --> CLa["Science Failed:\nTest is unreliable"]:::pillar
+    CL1 --> CLb["Investigation Failed:\nIncomplete, one-sided"]:::pillar
+    CL1 --> CLc["Bias Proven:\n24x rate, ignored\ngood performance"]:::pillar
+    CL1 --> CLd["Procedures Failed:\nMiranda, missing reports"]:::pillar
+    CL1 --> CLe["'If ANY ONE of these\ndoubts exists, you\nMUST acquit'"]:::good
+
+    %% JURY DELIBERATION & VERDICTS
+    JD --> V1["VERDICT 1\nNot Guilty\nAll Counts"]:::verdict
+    JD --> V2["VERDICT 2\nGuilty DUI\nNot Guilty Signal"]:::verdict
+    JD --> V3["VERDICT 3\nNot Guilty DUI\nGuilty Signal"]:::verdict
+    JD --> V4["VERDICT 4\nGuilty\nBoth Counts"]:::verdict
+    JD --> V5["MISTRIAL\nHung Jury"]:::verdict
+
+    V1 --> V1R["Case Ends\nNo Appeal Needed"]:::good
+
+    V2 --> SENT["Sentencing\n2nd Offense DUI\nClass A Misdemeanor"]:::bad
+    V4 --> SENT
+
+    V3 --> V3R["Signal Infraction Only\nMinimal Penalty"]:::neutral
+
+    V5 --> V5R["Retrial or\nNegotiated Resolution"]:::neutral
+
+    SENT --> PT1["Post-Trial Motions"]:::phase
+    PT1 --> PT1a["Motion for New Trial"]:::action
+    PT1 --> PT1b["Motion for Judgment\nNotwithstanding Verdict"]:::action
+
+    PT1 --> APP["APPEAL"]:::appeal
+    APP --> AP1["Carpenter Discovery\nDenial (Brady/Rule 16)"]:::appeal
+    APP --> AP2["Intoxilyzer Discovery\nDenial / Foundation"]:::appeal
+    APP --> AP3["Improper Jury\nInstruction (Presumption)"]:::appeal
+    APP --> AP4["Miranda Violation\nHandling of Statements"]:::appeal
+    APP --> AP5["Sufficiency of Evidence\nNo Video of Violation"]:::appeal
+    APP --> AP6["Bifurcation Denial\n404(b) Prejudice"]:::appeal

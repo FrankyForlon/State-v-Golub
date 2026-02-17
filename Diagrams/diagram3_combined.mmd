@@ -1,0 +1,160 @@
+---
+title: "State v. Golub — Complete Case Flowchart: Pretrial Through Trial"
+---
+flowchart TD
+    classDef header fill:#1a237e,color:#fff,stroke:#0d47a1,font-weight:bold,font-size:16px
+    classDef phase fill:#283593,color:#fff,stroke:#1565c0,font-weight:bold
+    classDef issue fill:#37474f,color:#fff,stroke:#263238,font-weight:bold
+    classDef good fill:#2e7d32,color:#fff,stroke:#1b5e20
+    classDef bad fill:#c62828,color:#fff,stroke:#b71c1c
+    classDef neutral fill:#f57f17,color:#fff,stroke:#e65100
+    classDef action fill:#00695c,color:#fff,stroke:#004d40
+    classDef verdict fill:#6a1b9a,color:#fff,stroke:#4a148c,font-weight:bold
+    classDef appeal fill:#ad1457,color:#fff,stroke:#880e4f
+    classDef pillar fill:#1565c0,color:#fff,stroke:#0d47a1
+
+    START["STATE v. GOLUB\nCase No. 235900706\nThird District Court\nJudge Hruby-Mills"]:::header
+
+    START --> PRE["PRETRIAL CONFERENCE\nFebruary 17, 2026"]:::phase
+
+    %% ===== PRETRIAL SECTION =====
+    PRE --> CARP["Motion to Compel\nTrooper Carpenter"]:::issue
+    PRE --> INTOX["Intoxilyzer Discovery\nCOBRA / Logs / Certs"]:::issue
+    PRE --> JURY_I["Jury Instructions\nDispute"]:::issue
+    PRE --> BIF["Enhancement\nBifurcation"]:::issue
+    PRE --> LOGIS["Trial Logistics\nVoir Dire / Tech"]:::issue
+
+    %% Carpenter Branch
+    CARP --> CG["Granted"]:::good
+    CARP --> CD["Denied"]:::bad
+
+    CG --> CG1["State Produces\nCarpenter Materials"]:::good
+    CG --> CG2["State Certifies\nNo Docs Exist"]:::neutral
+    CG1 --> CG1R["Use inconsistencies\nfor impeachment"]:::action
+    CG2 --> CG2R["'Erased officer'\nargument at trial"]:::action
+
+    CD --> CDR["Preserve appellate issue\nUse video + omission\nfor impeachment"]:::appeal
+
+    %% Intoxilyzer Branch
+    INTOX --> IG["Court Orders\nProduction"]:::good
+    INTOX --> ID["Court Refuses\nOrder"]:::bad
+
+    IG --> IG1["Records Produced\n& Support Defense"]:::good
+    IG --> IG2["Records Produced\nbut Neutral"]:::neutral
+    IG --> IG3["State Fails\nto Produce"]:::bad
+    IG1 --> IG1R["Motion in limine\nto exclude/limit test"]:::action
+    IG2 --> IG2R["Still argue 144-sec\nanomaly + protocol"]:::action
+    IG3 --> IG3R["Exclude certs/test\nAdverse inference"]:::action
+
+    ID --> IDR["Preserve record\nArgue incomplete\nscience at trial"]:::appeal
+
+    %% Jury Instructions Branch
+    JURY_I --> JG["Presumption\nRejected"]:::good
+    JURY_I --> JD_I["Presumption\nAccepted"]:::bad
+    JURY_I --> JDL["Decision\nDelayed"]:::neutral
+
+    JG --> JGR["State must prove\nreliability BRD\nDefense arguments\nfully live"]:::action
+    JD_I --> JDR["Argue evidence\novercomes presumption\nPreserve appellate issue"]:::appeal
+    JDL --> JDLR["File supplemental brief\nInstruction conference\nbefore trial"]:::action
+
+    %% Bifurcation Branch
+    BIF --> BG["Granted"]:::good
+    BIF --> BD["Denied"]:::bad
+    BG --> BGR["No prior conviction\nbefore jury on guilt"]:::action
+    BD --> BDR["Limiting instruction\nPreserve 404(b)\nobjection"]:::appeal
+
+    %% Logistics Branch
+    LOGIS --> LR["Confirm Mar 31 date\nSet deadlines\nApprove PPT + voir dire time"]:::action
+
+    %% ===== TRANSITION TO TRIAL PREP =====
+    CG1R --> PREP["TRIAL PREPARATION\nMarch 2026"]:::phase
+    CG2R --> PREP
+    CDR --> PREP
+    IG1R --> PREP
+    IG2R --> PREP
+    IG3R --> PREP
+    IDR --> PREP
+    JGR --> PREP
+    JDR --> PREP
+    JDLR --> PREP
+    BGR --> PREP
+    BDR --> PREP
+    LR --> PREP
+
+    PREP --> PREP1["Finalize Witness &\nExhibit Lists"]:::action
+    PREP --> PREP2["Prepare Cross-Exam\nof Ernstsen"]:::action
+    PREP --> PREP3["Prepare PowerPoint\nDemonstratives"]:::action
+    PREP --> PREP4["Prepare Voir Dire\nModules by Pillar"]:::action
+    PREP --> PREP5["File Any Motions\nin Limine"]:::action
+
+    %% ===== TRIAL SECTION =====
+    PREP1 --> TRIAL["JURY TRIAL\nMarch 31, 2026"]:::phase
+    PREP2 --> TRIAL
+    PREP3 --> TRIAL
+    PREP4 --> TRIAL
+    PREP5 --> TRIAL
+
+    TRIAL --> VD["Voir Dire\nJuror Selection"]:::issue
+    TRIAL --> OPEN["Opening\nStatements"]:::issue
+    TRIAL --> STATE_C["State's\nCase-in-Chief"]:::issue
+    TRIAL --> DEF_C["Defense\nCase"]:::issue
+    TRIAL --> CLOSE["Closing\nArguments"]:::issue
+
+    %% Voir Dire
+    VD --> VD1["Strike biased jurors\nfor cause"]:::action
+    VD --> VD2["Keep science-skeptical\ndefense-friendly jurors"]:::good
+    VD --> VD3["Probe: machine trust,\nBRD understanding,\nofficer credibility"]:::action
+
+    %% Opening
+    OPEN --> P1["PILLAR 1\n144-Second\nImpossible Test"]:::pillar
+    OPEN --> P2["PILLAR 2\nNo Video of\nTraffic Violation"]:::pillar
+    OPEN --> P3["PILLAR 3\n24x Arrest Rate\nConfirmation Bias"]:::pillar
+    OPEN --> P4["PILLAR 4\nMiranda Delay\nProcedural Failures"]:::pillar
+
+    %% State's Case & Cross
+    STATE_C --> CROSS["Cross-Examination\nof Ernstsen"]:::issue
+    CROSS --> CX1["144-sec test:\n'Was it done properly?'\nOfficer admitted improper"]:::action
+    CROSS --> CX2["Missing officer:\n'Why is Carpenter\nnot in your report?'"]:::action
+    CROSS --> CX3["No video proof:\n'10 blocks, no violation\ncaptured on camera?'"]:::action
+    CROSS --> CX4["Arrest rate:\n'24x the state average\nfor DUI arrests?'"]:::action
+    CROSS --> CX5["One-leg stand:\n'0/4 clues =\nperfect performance?'"]:::action
+
+    %% Defense Case
+    DEF_C --> DEF1["Carpenter body-cam\nclips (favorable)"]:::good
+    DEF_C --> DEF2["GRAMA data\n24x arrest rate"]:::good
+    DEF_C --> DEF3["PowerPoint\ndemonstratives"]:::good
+    DEF_C --> DEF4["Rest on reasonable\ndoubt from cross"]:::action
+
+    %% Closing
+    CLOSE --> CLOSE1["'If ANY ONE doubt\nexists across these\nfour pillars, you\nMUST acquit'"]:::good
+
+    %% ===== VERDICT SECTION =====
+    CLOSE1 --> DELIB["JURY\nDELIBERATION"]:::phase
+
+    DELIB --> V_NG["NOT GUILTY\nAll Counts"]:::verdict
+    DELIB --> V_G_DUI["GUILTY DUI\nNot Guilty Signal"]:::verdict
+    DELIB --> V_NG_DUI["NOT GUILTY DUI\nGuilty Signal Only"]:::verdict
+    DELIB --> V_G_ALL["GUILTY\nBoth Counts"]:::verdict
+    DELIB --> V_HUNG["MISTRIAL\nHung Jury"]:::verdict
+
+    V_NG --> END_W["CASE ENDS\nDefense Wins"]:::good
+
+    V_NG_DUI --> END_S["Signal Infraction\nMinimal Penalty"]:::neutral
+
+    V_HUNG --> RETRY["Retrial or\nNegotiated Resolution"]:::neutral
+
+    V_G_DUI --> SENT["SENTENCING\n2nd Offense DUI\nClass A Misdemeanor"]:::bad
+    V_G_ALL --> SENT
+
+    %% ===== POST-TRIAL / APPEAL =====
+    SENT --> POST["POST-TRIAL\nMOTIONS"]:::phase
+    POST --> MNT["Motion for\nNew Trial"]:::action
+    POST --> JNOV["Motion for Judgment\nNotwithstanding Verdict"]:::action
+
+    POST --> APPEAL["APPEAL TO\nUTAH COURT\nOF APPEALS"]:::appeal
+    APPEAL --> A1["Brady / Rule 16:\nCarpenter Discovery"]:::appeal
+    APPEAL --> A2["Intoxilyzer Foundation\n& Discovery Denial"]:::appeal
+    APPEAL --> A3["Improper Jury\nInstruction"]:::appeal
+    APPEAL --> A4["Miranda\nViolation"]:::appeal
+    APPEAL --> A5["Sufficiency of\nEvidence"]:::appeal
+    APPEAL --> A6["404(b) / Bifurcation\nPrejudice"]:::appeal

@@ -1,0 +1,95 @@
+---
+title: "State v. Golub — Pretrial Decision Tree (Feb 17, 2026)"
+---
+flowchart TD
+    classDef header fill:#1a237e,color:#fff,stroke:#0d47a1,font-weight:bold,font-size:16px
+    classDef issue fill:#283593,color:#fff,stroke:#1565c0,font-weight:bold
+    classDef granted fill:#2e7d32,color:#fff,stroke:#1b5e20
+    classDef denied fill:#c62828,color:#fff,stroke:#b71c1c
+    classDef neutral fill:#f57f17,color:#fff,stroke:#e65100
+    classDef outcome fill:#4527a0,color:#fff,stroke:#311b92
+    classDef action fill:#00695c,color:#fff,stroke:#004d40
+    classDef appeal fill:#ad1457,color:#fff,stroke:#880e4f
+
+    PT["PRETRIAL CONFERENCE\nFeb 17, 2026\nState v. Golub, No. 235900706\nJudge Hruby-Mills"]:::header
+
+    PT --> I1["ISSUE 1\nTrial Setting &\nReadiness"]:::issue
+    PT --> I2["ISSUE 2\nMotion to Compel\nTrooper Carpenter"]:::issue
+    PT --> I3["ISSUE 3\nIntoxilyzer Discovery\nCOBRA / Logs / Certs"]:::issue
+    PT --> I4["ISSUE 4\nJury Instructions\nAffirmative Findings"]:::issue
+    PT --> I5["ISSUE 5\nEnhancement\nBifurcation"]:::issue
+    PT --> I6["ISSUE 6\nVoir Dire &\nTechnology"]:::issue
+
+    %% ISSUE 1: Trial Setting
+    I1 --> T1A["Court Confirms\nMarch 31, 2026"]:::granted
+    I1 --> T1B["Court Adjusts\nDate / Continuance"]:::denied
+    T1A --> T1R["Proceed to Trial Prep\nSet witness/exhibit deadlines\nSet motions in limine deadline"]:::action
+    T1B --> T1R2["Adjust all deadlines\naccordingly"]:::neutral
+
+    %% ISSUE 2: Carpenter Motion
+    I2 --> C_G["MOTION GRANTED\nFully or Substantially"]:::granted
+    I2 --> C_D["MOTION DENIED\nFully or Mostly"]:::denied
+    I2 --> C_S["BRIEFING SCHEDULE\nSet for Short Response"]:::neutral
+
+    C_G --> CG1["State Complies\nFully by Mar 17"]:::granted
+    C_G --> CG2["State Partially\nComplies or Late"]:::neutral
+    C_G --> CG3["State Certifies\nNo Docs Exist"]:::denied
+
+    CG1 --> CG1a["Helpful Content:\nInconsistencies w/ Ernstsen\nNo incriminating evidence\nAdditional procedure issues"]:::granted
+    CG1 --> CG1b["Neutral/Harmful:\nConfirms Ernstsen story\nAdds incriminating detail"]:::denied
+    CG1a --> CG1R["Use for impeachment\nConsider listing Carpenter\nFile targeted motions in limine"]:::action
+    CG1b --> CG1R2["Adjust cross-exam strategy\nStill use omission argument"]:::action
+
+    CG2 --> CG2R["Rule 16(d) remedies:\n• Exclude late evidence\n• Adverse inference instruction\n• Aggressive cross re: missing report"]:::action
+
+    CG3 --> CG3R["Argue at trial:\n• Incomplete investigation\n• Possible spoliation\n• 'Second officer erased'\n• Missing evidence instruction"]:::action
+
+    C_D --> CD1["State Informally\nProduces Some Docs"]:::neutral
+    C_D --> CD2["No Additional\nCarpenter Discovery"]:::denied
+    CD1 --> CD1R["Treat as partial compliance\nUse whatever is produced"]:::action
+    CD2 --> CD2R["Preserve appellate issue\nUse absence for impeachment\nCross Ernstsen on omission\nArgue in closing"]:::appeal
+
+    C_S --> CSR["State responds 7-10 days\nDefense reply if needed\nTarget Mar 17 compliance"]:::action
+
+    %% ISSUE 3: Intoxilyzer Discovery
+    I3 --> IX_O["COURT ORDERS\nProduction by\nMar 3-10, 2026"]:::granted
+    I3 --> IX_R["COURT REFUSES\nor Minimizes Order"]:::denied
+
+    IX_O --> IX1["State Produces\nCOBRA + Logs + Certs"]:::granted
+    IX_O --> IX2["State Fails to\nProduce or Incomplete"]:::denied
+
+    IX1 --> IX1a["Records Support Defense:\n• Multiple aborted attempts\n• Recent errors/repairs\n• Unusual patterns\n• Confirms 144-sec anomaly"]:::granted
+    IX1 --> IX1b["Records Neutral/Favor State:\n• Clean certifications\n• No errors found"]:::neutral
+    IX1a --> IX1aR["Strengthen motion in limine\nStrengthen cross-exam\nConsider expert testimony"]:::action
+    IX1b --> IX1bR["Still argue:\n• 144-sec impossibility\n• No second sample\n• Officer admission\n• Miranda issues"]:::action
+
+    IX2 --> IX2R["Possible Court Remedies:\n• Exclude certifications\n• Exclude/limit breath test\n• Adverse inference instruction\n• Clear appellate issue"]:::appeal
+
+    IX_R --> IXR2["Preserve record\nArgue at trial:\n• State withheld instrument history\n• Combined w/ 144-sec anomaly\n• Undermines confidence in result"]:::appeal
+
+    %% ISSUE 4: Jury Instructions
+    I4 --> JI1["Court REJECTS\nState's Presumption\nInstruction"]:::granted
+    I4 --> JI2["Court ACCEPTS\nState's Presumption\nInstruction"]:::denied
+    I4 --> JI3["Court DELAYS\nSets Schedule for\nFinal Conference"]:::neutral
+
+    JI1 --> JI1R["Defense-Favorable:\n• No presumption of reliability\n• State must prove reliability BRD\n• Jury sole judge of weight\n• 144-sec argument fully live"]:::action
+
+    JI2 --> JI2R["Mitigation Strategy:\n• Introduce 144-sec anomaly\n• Officer's 'improper' admission\n• No second sample\n• Argue evidence overcomes presumption\n• Preserve appellate objection"]:::appeal
+
+    JI3 --> JI3R["File supplemental brief\nPrepare for instruction conference\nTailor voir dire to expected instructions"]:::action
+
+    %% ISSUE 5: Bifurcation
+    I5 --> BF1["BIFURCATION\nGRANTED"]:::granted
+    I5 --> BF2["BIFURCATION\nDENIED"]:::denied
+    BF1 --> BF1R["Jury decides guilt first\nNo prior conviction evidence\nEnhancement addressed separately"]:::action
+    BF2 --> BF2R["Request limiting instruction\nPreserve 404(b) objection\nMinimize prejudice at trial"]:::appeal
+
+    %% ISSUE 6: Voir Dire & Tech
+    I6 --> VD1["45 Minutes\nApproved"]:::granted
+    I6 --> VD2["30 Minutes\nor Less"]:::neutral
+    I6 --> VD3["PowerPoint\nApproved"]:::granted
+    I6 --> VD4["PowerPoint\nRestricted"]:::denied
+    VD1 --> VDR["Full voir dire on:\n• Scientific skepticism\n• Officer credibility\n• Burden of proof\n• DUI bias"]:::action
+    VD2 --> VDR2["Prioritize key modules:\n• Machine reliability\n• Reasonable doubt\n• For-cause strikes"]:::action
+    VD3 --> VDR3["Use slides for opening/closing\nEmail to State if required\nTest courtroom tech early"]:::action
+    VD4 --> VDR4["Print key slides as boards\nUse verbal descriptions\nPrepare backup materials"]:::action
